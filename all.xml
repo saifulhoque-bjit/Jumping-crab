@@ -1,0 +1,1721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hermes Daily — Everything</title>
+    <link>https://feed.jumpingcrab.com/</link>
+    <description>Every Hermes daily report in one feed: GitHub trending repositories, new AI agent skill repositories, and the AI dev digest.</description>
+    <atom:link rel="self" type="application/rss+xml" href="https://feed.jumpingcrab.com/all.xml" />
+    <language>en</language>
+    <generator>hermes-rss-feed-builder</generator>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <ttl>10</ttl>
+    <pubDate>Tue, 15 Sep 2026 07:00:42 +0000</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:10:36 +0000</lastBuildDate>
+    <item>
+      <title>GitHub Trending — what changed (2026-09-15)</title>
+      <link>https://github.com/trending</link>
+      <description>- New in top 10: `alibaba/open-code-review`, `debpalash/VoiceStudio`, `666ghj/MiroFish`, `Panniantong/Agent-Reach`
+- Biggest mover: `multimodal-art-projection/YuE` climbed #9 → #3
+- Dropped from top 10: `ever-co/ever-gauzy`, `bilawalsidhu/gods-eye-view`, `tech-leads-club/agent-skills`</description>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:20260915T070042Z:what-changed</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>rlaope/oh-my-hermes</title>
+      <link>https://github.com/rlaope/oh-my-hermes</link>
+      <description>All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
+
+Language: Python · 77 stars today</description>
+      <category>Python</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-15:rlaope/oh-my-hermes</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>multimodal-art-projection/YuE</title>
+      <link>https://github.com/multimodal-art-projection/YuE</link>
+      <description>YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
+
+Language: Python · 559 stars today</description>
+      <category>Python</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-15:multimodal-art-projection/YuE</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>localsend/localsend</title>
+      <link>https://github.com/localsend/localsend</link>
+      <description>An open-source cross-platform alternative to AirDrop
+
+Language: Dart · 251 stars today</description>
+      <category>Dart</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-15:localsend/localsend</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>debpalash/VoiceStudio</title>
+      <link>https://github.com/debpalash/VoiceStudio</link>
+      <description>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.
+
+Language: Python · 2,776 stars today</description>
+      <category>Python</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-15:debpalash/VoiceStudio</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>dani-garcia/vaultwarden</title>
+      <link>https://github.com/dani-garcia/vaultwarden</link>
+      <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+
+Language: Rust · 115 stars today</description>
+      <category>Rust</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-15:dani-garcia/vaultwarden</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>asgeirtj/system_prompts_leaks</title>
+      <link>https://github.com/asgeirtj/system_prompts_leaks</link>
+      <description>Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
+
+Language: JavaScript · 764 stars today</description>
+      <category>JavaScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-15:asgeirtj/system_prompts_leaks</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>alibaba/open-code-review</title>
+      <link>https://github.com/alibaba/open-code-review</link>
+      <description>Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.
+
+Language: Go · 1,571 stars today</description>
+      <category>Go</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-15:alibaba/open-code-review</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Panniantong/Agent-Reach</title>
+      <link>https://github.com/Panniantong/Agent-Reach</link>
+      <description>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+
+Language: Python · 651 stars today</description>
+      <category>Python</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-15:Panniantong/Agent-Reach</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>JustVugg/colibri</title>
+      <link>https://github.com/JustVugg/colibri</link>
+      <description>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+
+Language: C · 2,173 stars today</description>
+      <category>C</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-15:JustVugg/colibri</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>666ghj/MiroFish</title>
+      <link>https://github.com/666ghj/MiroFish</link>
+      <description>A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+
+Language: Python · 560 stars today</description>
+      <category>Python</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-15:666ghj/MiroFish</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>s1dashu/ip-as-logo-skill</title>
+      <link>https://github.com/s1dashu/ip-as-logo-skill</link>
+      <description>A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
+
+Language: Unknown · 5,238 stars · Topics: codex, codex-skill, image-generation, logo-design, mascot-design · Created 2026-08-18 · Updated 2026-09-15</description>
+      <category>Unknown</category>
+      <category>codex</category>
+      <category>codex-skill</category>
+      <category>image-generation</category>
+      <category>logo-design</category>
+      <category>mascot-design</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-15:s1dashu/ip-as-logo-skill</guid>
+      <pubDate>Tue, 15 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>nateherkai/scroll-craft</title>
+      <link>https://github.com/nateherkai/scroll-craft</link>
+      <description>An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding
+
+Language: JavaScript · 2,431 stars · Topics: accessibility, agent-skills, ai-web-design, anthropic, claude-code · Created 2026-08-22 · Updated 2026-09-15</description>
+      <category>JavaScript</category>
+      <category>accessibility</category>
+      <category>agent-skills</category>
+      <category>ai-web-design</category>
+      <category>anthropic</category>
+      <category>claude-code</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-15:nateherkai/scroll-craft</guid>
+      <pubDate>Tue, 15 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>jtydhr88/screenwriting-skills</title>
+      <link>https://github.com/jtydhr88/screenwriting-skills</link>
+      <description>Professional agent skills for screenwriting, television writing and dramaturgy
+
+Language: Python · 1,084 stars · Topics: ai, skills · Created 2026-09-06 · Updated 2026-09-15</description>
+      <category>Python</category>
+      <category>ai</category>
+      <category>skills</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-15:jtydhr88/screenwriting-skills</guid>
+      <pubDate>Tue, 15 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>coldteadotai/pr-lens</title>
+      <link>https://github.com/coldteadotai/pr-lens</link>
+      <description>Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull reques
+
+Language: TypeScript · 1,137 stars · Topics: agent-skills, architecture-as-code, architecture-diagrams, claude-skills, code-visualisation · Created 2026-08-20 · Updated 2026-09-14</description>
+      <category>TypeScript</category>
+      <category>agent-skills</category>
+      <category>architecture-as-code</category>
+      <category>architecture-diagrams</category>
+      <category>claude-skills</category>
+      <category>code-visualisation</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-15:coldteadotai/pr-lens</guid>
+      <pubDate>Tue, 15 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>cbrock84/headcount</title>
+      <link>https://github.com/cbrock84/headcount</link>
+      <description>An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently instal
+
+Language: Markdown · 1,394 stars · Topics: agent-marketplace, claude-code, claude-code-plugin, claude-plugin, claude-skills · Created 2026-08-28 · Updated 2026-09-15</description>
+      <category>Markdown</category>
+      <category>agent-marketplace</category>
+      <category>claude-code</category>
+      <category>claude-code-plugin</category>
+      <category>claude-plugin</category>
+      <category>claude-skills</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-15:cbrock84/headcount</guid>
+      <pubDate>Tue, 15 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vincentwei1021/video-talkcraft</title>
+      <link>https://github.com/Vincentwei1021/video-talkcraft</link>
+      <description>Agent skill that turns Claude Code / Codex into a motion-design studio for voiceover-driven explainer videos — word-leve
+
+Language: HTML · 1,014 stars · Topics: agent-skills, ai-agent, claude, claude-code, explainer-video · Created 2026-08-22 · Updated 2026-09-15</description>
+      <category>HTML</category>
+      <category>agent-skills</category>
+      <category>ai-agent</category>
+      <category>claude</category>
+      <category>claude-code</category>
+      <category>explainer-video</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-15:Vincentwei1021/video-talkcraft</guid>
+      <pubDate>Tue, 15 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vincentwei1021/anything2explainer</title>
+      <link>https://github.com/Vincentwei1021/anything2explainer</link>
+      <description>Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-grap
+
+Language: TypeScript · 1,327 stars · Topics: agent-skills, ai-agents, ai-video, claude-code, claude-code-skill · Created 2026-09-08 · Updated 2026-09-15</description>
+      <category>TypeScript</category>
+      <category>agent-skills</category>
+      <category>ai-agents</category>
+      <category>ai-video</category>
+      <category>claude-code</category>
+      <category>claude-code-skill</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-15:Vincentwei1021/anything2explainer</guid>
+      <pubDate>Tue, 15 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spielewoy/autoprompt-skill</title>
+      <link>https://github.com/Spielewoy/autoprompt-skill</link>
+      <description>Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.
+
+Language: JavaScript · 1,131 stars · Topics: agent-orchestration, agent-skills, agentic-workflows, ai-agents, ai-coding · Created 2026-08-17 · Updated 2026-09-15</description>
+      <category>JavaScript</category>
+      <category>agent-orchestration</category>
+      <category>agent-skills</category>
+      <category>agentic-workflows</category>
+      <category>ai-agents</category>
+      <category>ai-coding</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-15:Spielewoy/autoprompt-skill</guid>
+      <pubDate>Tue, 15 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nanako0129/sepia</title>
+      <link>https://github.com/Nanako0129/sepia</link>
+      <description>De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,
+
+Language: Python · 2,608 stars · Topics: agent-skills, ai-writing, antigravity, claude-code, codex · Created 2026-08-28 · Updated 2026-09-15</description>
+      <category>Python</category>
+      <category>agent-skills</category>
+      <category>ai-writing</category>
+      <category>antigravity</category>
+      <category>claude-code</category>
+      <category>codex</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-15:Nanako0129/sepia</guid>
+      <pubDate>Tue, 15 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CopilotKit/OpenBot</title>
+      <link>https://github.com/CopilotKit/OpenBot</link>
+      <description>Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided be
+
+Language: TypeScript · 4,893 stars · Topics: ag-ui, agent-governance, ai-agents, browser-automation, copilotkit · Created 2026-08-17 · Updated 2026-09-15</description>
+      <category>TypeScript</category>
+      <category>ag-ui</category>
+      <category>agent-governance</category>
+      <category>ai-agents</category>
+      <category>browser-automation</category>
+      <category>copilotkit</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-15:CopilotKit/OpenBot</guid>
+      <pubDate>Tue, 15 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Trending — what changed (2026-09-14)</title>
+      <link>https://github.com/trending</link>
+      <description>- New in top 10: `JustVugg/colibri`, `ever-co/ever-gauzy`, `tech-leads-club/agent-skills`, `calesthio/OpenMontage`
+- New #1: `JustVugg/colibri`
+- Dropped from top 10: `nab138/iloader`, `Flowseal/zapret-discord-youtube`, `jihe520/MathModelAgent`</description>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:20260914T070043Z:what-changed</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>yuliskov/SmartTube</title>
+      <link>https://github.com/yuliskov/SmartTube</link>
+      <description>Browse media content with your own rules on Android TV
+
+Language: Java · 233 stars today</description>
+      <category>Java</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-14:yuliskov/SmartTube</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>vxcontrol/pentagi</title>
+      <link>https://github.com/vxcontrol/pentagi</link>
+      <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+
+Language: Go · 590 stars today</description>
+      <category>Go</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-14:vxcontrol/pentagi</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>tech-leads-club/agent-skills</title>
+      <link>https://github.com/tech-leads-club/agent-skills</link>
+      <description>The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
+
+Language: TypeScript · 265 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-14:tech-leads-club/agent-skills</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>multimodal-art-projection/YuE</title>
+      <link>https://github.com/multimodal-art-projection/YuE</link>
+      <description>YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
+
+Language: Python · 487 stars today</description>
+      <category>Python</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-14:multimodal-art-projection/YuE</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>melgarafael/DeskcommCRM</title>
+      <link>https://github.com/melgarafael/DeskcommCRM</link>
+      <description>Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+
+Language: TypeScript · 432 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-14:melgarafael/DeskcommCRM</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>ever-co/ever-gauzy</title>
+      <link>https://github.com/ever-co/ever-gauzy</link>
+      <description>Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
+
+Language: TypeScript · 191 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-14:ever-co/ever-gauzy</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>calesthio/OpenMontage</title>
+      <link>https://github.com/calesthio/OpenMontage</link>
+      <description>World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+
+Language: Python · 380 stars today</description>
+      <category>Python</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-14:calesthio/OpenMontage</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>bilawalsidhu/gods-eye-view</title>
+      <link>https://github.com/bilawalsidhu/gods-eye-view</link>
+      <description>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+
+Language: JavaScript · 2,680 stars today</description>
+      <category>JavaScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-14:bilawalsidhu/gods-eye-view</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>asgeirtj/system_prompts_leaks</title>
+      <link>https://github.com/asgeirtj/system_prompts_leaks</link>
+      <description>Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
+
+Language: JavaScript · 706 stars today</description>
+      <category>JavaScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-14:asgeirtj/system_prompts_leaks</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>JustVugg/colibri</title>
+      <link>https://github.com/JustVugg/colibri</link>
+      <description>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+
+Language: C · 868 stars today</description>
+      <category>C</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-14:JustVugg/colibri</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>s1dashu/ip-as-logo-skill</title>
+      <link>https://github.com/s1dashu/ip-as-logo-skill</link>
+      <description>A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
+
+Language: Unknown · 5,213 stars · Topics: codex, codex-skill, image-generation, logo-design, mascot-design · Created 2026-08-18 · Updated 2026-09-14</description>
+      <category>Unknown</category>
+      <category>codex</category>
+      <category>codex-skill</category>
+      <category>image-generation</category>
+      <category>logo-design</category>
+      <category>mascot-design</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-14:s1dashu/ip-as-logo-skill</guid>
+      <pubDate>Mon, 14 Sep 2026 02:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>nateherkai/scroll-craft</title>
+      <link>https://github.com/nateherkai/scroll-craft</link>
+      <description>An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding
+
+Language: JavaScript · 2,402 stars · Topics: accessibility, agent-skills, ai-web-design, anthropic, claude-code · Created 2026-08-22 · Updated 2026-09-14</description>
+      <category>JavaScript</category>
+      <category>accessibility</category>
+      <category>agent-skills</category>
+      <category>ai-web-design</category>
+      <category>anthropic</category>
+      <category>claude-code</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-14:nateherkai/scroll-craft</guid>
+      <pubDate>Mon, 14 Sep 2026 02:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>jtydhr88/screenwriting-skills</title>
+      <link>https://github.com/jtydhr88/screenwriting-skills</link>
+      <description>Professional agent skills for screenwriting, television writing and dramaturgy
+
+Language: Python · 1,018 stars · Topics: ai, skills · Created 2026-09-06 · Updated 2026-09-14</description>
+      <category>Python</category>
+      <category>ai</category>
+      <category>skills</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-14:jtydhr88/screenwriting-skills</guid>
+      <pubDate>Mon, 14 Sep 2026 02:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>coldteadotai/pr-lens</title>
+      <link>https://github.com/coldteadotai/pr-lens</link>
+      <description>Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull reques
+
+Language: TypeScript · 1,127 stars · Topics: agent-skills, architecture-as-code, architecture-diagrams, claude-skills, code-visualisation · Created 2026-08-20 · Updated 2026-09-14</description>
+      <category>TypeScript</category>
+      <category>agent-skills</category>
+      <category>architecture-as-code</category>
+      <category>architecture-diagrams</category>
+      <category>claude-skills</category>
+      <category>code-visualisation</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-14:coldteadotai/pr-lens</guid>
+      <pubDate>Mon, 14 Sep 2026 02:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>cbrock84/headcount</title>
+      <link>https://github.com/cbrock84/headcount</link>
+      <description>An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently instal
+
+Language: Markdown · 1,373 stars · Topics: agent-marketplace, claude-code, claude-code-plugin, claude-plugin, claude-skills · Created 2026-08-28 · Updated 2026-09-14</description>
+      <category>Markdown</category>
+      <category>agent-marketplace</category>
+      <category>claude-code</category>
+      <category>claude-code-plugin</category>
+      <category>claude-plugin</category>
+      <category>claude-skills</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-14:cbrock84/headcount</guid>
+      <pubDate>Mon, 14 Sep 2026 02:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vincentwei1021/video-talkcraft</title>
+      <link>https://github.com/Vincentwei1021/video-talkcraft</link>
+      <description>Agent skill that turns Claude Code / Codex into a motion-design studio for voiceover-driven explainer videos — word-leve
+
+Language: HTML · 976 stars · Topics: agent-skills, ai-agent, claude, claude-code, explainer-video · Created 2026-08-22 · Updated 2026-09-14</description>
+      <category>HTML</category>
+      <category>agent-skills</category>
+      <category>ai-agent</category>
+      <category>claude</category>
+      <category>claude-code</category>
+      <category>explainer-video</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-14:Vincentwei1021/video-talkcraft</guid>
+      <pubDate>Mon, 14 Sep 2026 02:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vincentwei1021/anything2explainer</title>
+      <link>https://github.com/Vincentwei1021/anything2explainer</link>
+      <description>Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-grap
+
+Language: TypeScript · 1,174 stars · Topics: agent-skills, ai-agents, ai-video, claude-code, claude-code-skill · Created 2026-09-08 · Updated 2026-09-14</description>
+      <category>TypeScript</category>
+      <category>agent-skills</category>
+      <category>ai-agents</category>
+      <category>ai-video</category>
+      <category>claude-code</category>
+      <category>claude-code-skill</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-14:Vincentwei1021/anything2explainer</guid>
+      <pubDate>Mon, 14 Sep 2026 02:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spielewoy/autoprompt-skill</title>
+      <link>https://github.com/Spielewoy/autoprompt-skill</link>
+      <description>Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.
+
+Language: JavaScript · 1,093 stars · Topics: agent-orchestration, agent-skills, agentic-workflows, ai-agents, ai-coding · Created 2026-08-17 · Updated 2026-09-13</description>
+      <category>JavaScript</category>
+      <category>agent-orchestration</category>
+      <category>agent-skills</category>
+      <category>agentic-workflows</category>
+      <category>ai-agents</category>
+      <category>ai-coding</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-14:Spielewoy/autoprompt-skill</guid>
+      <pubDate>Mon, 14 Sep 2026 02:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nanako0129/sepia</title>
+      <link>https://github.com/Nanako0129/sepia</link>
+      <description>De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,
+
+Language: Python · 2,585 stars · Topics: agent-skills, ai-writing, antigravity, claude-code, codex · Created 2026-08-28 · Updated 2026-09-14</description>
+      <category>Python</category>
+      <category>agent-skills</category>
+      <category>ai-writing</category>
+      <category>antigravity</category>
+      <category>claude-code</category>
+      <category>codex</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-14:Nanako0129/sepia</guid>
+      <pubDate>Mon, 14 Sep 2026 02:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>CopilotKit/OpenBot</title>
+      <link>https://github.com/CopilotKit/OpenBot</link>
+      <description>Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided be
+
+Language: TypeScript · 4,855 stars · Topics: ag-ui, agent-governance, ai-agents, browser-automation, copilotkit · Created 2026-08-17 · Updated 2026-09-14</description>
+      <category>TypeScript</category>
+      <category>ag-ui</category>
+      <category>agent-governance</category>
+      <category>ai-agents</category>
+      <category>browser-automation</category>
+      <category>copilotkit</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-14:CopilotKit/OpenBot</guid>
+      <pubDate>Mon, 14 Sep 2026 02:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Trending — what changed (2026-09-13)</title>
+      <link>https://github.com/trending</link>
+      <description>- New in top 10: `asgeirtj/system_prompts_leaks`, `Flowseal/zapret-discord-youtube`, `jihe520/MathModelAgent`, `yuliskov/SmartTube`
+- New #1: `bilawalsidhu/gods-eye-view`
+- Biggest mover: `Sonarr/Sonarr` climbed #10 → #7
+- Dropped from top 10: `ayghri/i-have-adhd`, `vastsa/PI-Desktop`, `armory3d/armorpaint`</description>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:20260913T070040Z:what-changed</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>yuliskov/SmartTube</title>
+      <link>https://github.com/yuliskov/SmartTube</link>
+      <description>Browse media content with your own rules on Android TV
+
+Language: Java · 136 stars today</description>
+      <category>Java</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-13:yuliskov/SmartTube</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>nab138/iloader</title>
+      <link>https://github.com/nab138/iloader</link>
+      <description>User friendly sideloader
+
+Language: TypeScript · 209 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-13:nab138/iloader</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>melgarafael/DeskcommCRM</title>
+      <link>https://github.com/melgarafael/DeskcommCRM</link>
+      <description>Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+
+Language: TypeScript · 504 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-13:melgarafael/DeskcommCRM</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>jihe520/MathModelAgent</title>
+      <link>https://github.com/jihe520/MathModelAgent</link>
+      <description>🤖📐专为数学建模设计的 Agent &amp; skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
+
+Language: Python · 262 stars today</description>
+      <category>Python</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-13:jihe520/MathModelAgent</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>bilawalsidhu/gods-eye-view</title>
+      <link>https://github.com/bilawalsidhu/gods-eye-view</link>
+      <description>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+
+Language: JavaScript · 2,265 stars today</description>
+      <category>JavaScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-13:bilawalsidhu/gods-eye-view</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>asgeirtj/system_prompts_leaks</title>
+      <link>https://github.com/asgeirtj/system_prompts_leaks</link>
+      <description>Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
+
+Language: JavaScript · 217 stars today</description>
+      <category>JavaScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-13:asgeirtj/system_prompts_leaks</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>alsk1992/CloddsBot</title>
+      <link>https://github.com/alsk1992/CloddsBot</link>
+      <description>Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
+
+Language: TypeScript · 376 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-13:alsk1992/CloddsBot</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sonarr/Sonarr</title>
+      <link>https://github.com/Sonarr/Sonarr</link>
+      <description>Smart PVR for newsgroup and bittorrent users.
+
+Language: C# · 227 stars today</description>
+      <category>C#</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-13:Sonarr/Sonarr</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shubhamsaboo/awesome-llm-apps</title>
+      <link>https://github.com/Shubhamsaboo/awesome-llm-apps</link>
+      <description>100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+
+Language: Python · 230 stars today</description>
+      <category>Python</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-13:Shubhamsaboo/awesome-llm-apps</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flowseal/zapret-discord-youtube</title>
+      <link>https://github.com/Flowseal/zapret-discord-youtube</link>
+      <description>Unknown
+
+Language: Batchfile · 65 stars today</description>
+      <category>Batchfile</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-13:Flowseal/zapret-discord-youtube</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Dev Digest — 2026-09-13</title>
+      <link>https://feed.jumpingcrab.com/ai-digest</link>
+      <description>Now I have enough material. Let me compile the digest.
+
+# ⚡ Daily AI + Tech Digest — September 13, 2026
+**In one line:** The AI safety movement gains rare bipartisan momentum as Amodei's pacing call wins instant Musk/Altman backing, OpenAI shelves its IPO, and new benchmarks expose both the promise and fragility of frontier coding agents.
+
+## 🤖 AI Updates
+
+1. **Amodei's "We Must Pace the Frontier" — Musk and Altman rally behind within hours**
+   Why it matters: Dario Amodei published a landmark essay warning that unchecked recursive self-improvement could spawn persistent botnets within months. Elon Musk posted "Dario is right" on X; Altman committed OpenAI to giving independent evaluators employee-like access. Hugging Face launched an Open Alignment Initiative. This is the closest the frontier labs have come to a coordinated slowdown pact.
+   Source: https://cryptobriefing.com/musk-supports-anthropic-slow-ai-development/
+
+2. **Altman rules out 2026 OpenAI IPO — "safety work not done"**
+   Why it matters: Sam Altman told Fortune a listing would be "ill-advised" right now, despite a ~$1T valuation and $122B in committed capital. He hinted at a possible cross-lab pact to pause at new capability levels. The IPO delay signals that safety politics now constrain capital strategy at the world's largest AI company.
+   Source: https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/
+
+3. **Real-SWE benchmark: Fable 5.1 leads at 38.8% on private enterprise codebases**
+   Why it matters: Specific Labs released Real-SWE, testing frontier models on real licensed enterprise code (billing, tax, migration — median 11 files). Fable 5.1 topped at 38.8%, GPT-6 Astra at 33.8%, Gemini 3.8 Flash at 31.2%. Missed requirements were the #1 failure mode across all models — a reminder that even the best coding agents still miss most real-world tasks.
+   Source: https://withspecific.com/benchmarks/real-swe
+
+4. **Sakana ships Fugu Max and Fugu Ultra v2 — open-model orchestrators beat frontier models**
+   Why it matters: Fugu Max routes queries across open-weight and specialist models behind one API at 40-60% below Fable 5.1 and GPT-5.6 Terra pricing, ranking best on 6 of 10 benchmarks including Terminal Bench 2.1 and GPQA Diamond. Fugu Ultra v2 hits 48.3 on Chartography and 74.3 on DeepSWE — without using Fable 5.1 or GPT-6 Astra in its pool.
+   Source: https://sakana.ai/fugu-max-release/
+
+5. **Senate draft bill would impose "duty of care" on frontier AI builders**
+   Why it matters: Bipartisan negotiators (Thune, Cruz, Klobuchar, Cantwell) are drafting legislation that would let the government block release of unsafe models, with federal-court appeal rights. The bill targets Google, OpenAI, and Anthropic, and would preempt state AI rules on nuclear/bio weapon risks. First serious federal AI safety legislation with real teeth.
+   Source: https://www.reuters.com/legal/litigation/us-senate-negotiators-consider-requiring-ai-firms-mitigate-known-major-risks-2026-09-11/
+
+6. **Agnes-AI drops open-weight 33B multimodal model under Apache 2.0**
+   Why it matters: Agnes-3.0-Flash packs 262K-token context with a hybrid architecture (54 delta-rule recurrent + 18 global-attention layers), scoring 85.05 on GPQA Diamond and fitting on a single H200 at bf16. Fully Apache 2.0 licensed — a strong open-weight contender for teams that need long-context multimodal without API lock-in.
+   Source: https://huggingface.co/Agnes-AI/Agnes-3.0-Flash
+
+## 🛠️ Tech / Dev Updates
+
+7. **Coding-agent sandboxes leak across Claude Code, Codex, and Cursor — Anthropic took 50 days to patch**
+   Why it matters: Stealth startup Accomplish disclosed sandbox-escape vulnerabilities in the three most popular coding agents. Cursor and OpenAI fixed theirs in ~1 week; Anthropic took ~50 days and 30 releases. CTO Hiltch: "There's a lot of talk about security now. It doesn't really reflect in how they actually build products." Structural security debt in AI coding tools is now a first-order risk.
+   Source: https://www.upstartsmedia.com/p/accomplish-claims-leaky-sandboxes-in-claude-codex-cursor
+
+8. **SGLang inference servers hit by unauthenticated RCE flaw**
+   Why it matters: The SafeUnpickler's overly broad `builtins.` module prefix lets attackers chain `__import__` and `getattr` gadgets through `/update_weights_from_tensor` when no API key is configured. SGLang is one of the most widely deployed LLM inference frameworks by GPU footprint — this is the fourth critical CVE in four weeks against AI inference infrastructure.
+   Source: https://forkast.news/four-weeks-four-critical-cves-ai-inference-infrastructure-is-now-a-regular-target/
+
+9. **South Korea's rewritten espionage law takes effect today — up to 30 years for leaking chip tech**
+   Why it matters: Article 98 now covers espionage benefiting *any* foreign country, not just North Korea — the first major rewrite in 73 years. Officials frame it as protecting Samsung (38% global DRAM) and SK Hynix (25%) from Chinese engineer recruitment. Over half of last year's overseas tech leaks reportedly involved China. Also applies to allied nations — engineers transferring data to US/EU employers face the same framework.
+   Source: https://www.ft.com/content/6fa49d3c-e7b9-4bcd-9eb1-b737ff0c552e
+
+10. **AI agents helped one attacker breach 395 orgs via PaperCut in hours**
+   Why it matters: GreyNoise researchers found a Russian-speaking threat actor used hundreds of AI agents (built on OpenAI Codex + a DeepSeek model) to exploit PaperCut NG/MF vulnerabilities across 48 countries. Education was the hardest-hit sector (204 victims). Credentials were harvested from 280 organizations. This is the clearest real-world example of AI agents being weaponized at scale for initial access.
+   Source: https://aiweekly.co/alerts/ai-agents-compromise-395-orgs-via-papercut-flaws-in-hours
+
+11. **Tech layoffs cross 6,300 in first 10 days of September — 128,536 total for 2026**
+   Why it matters: Layoffs.fyi data shows 2026 has already exceeded 2025's full-year total across 299 companies, with AI/automation reallocation cited alongside cost discipline as the primary driver. Oracle alone cut 21,000 (~13% of workforce). The structural displacement narrative is now backed by hard numbers.
+   Source: https://www.business-standard.com/industry/news/global-tech-layoffs-2026-oracle-amazon-dell-uber-paypal-it-sector-job-cuts-126091100188_1.html
+
+## 📈 Why today matters
+- **Safety is becoming strategy, not PR.** Amodei's pacing call, the Senate duty-of-care bill, and Altman's IPO delay all hit within 24 hours — the AI safety movement has more institutional leverage than at any point in the industry's history.
+- **AI agent security is the new attack surface.** From sandbox escapes in coding tools to weaponized PaperCut exploitation, the gap between agent capability and agent security is widening fast — and attackers are already inside it.
+- **Semiconductor geopolitics is hardening into law.** South Korea's espionage rewrite and the Pentagon's $5B FluidStack loan both signal that chip supply chains are now treated as national security infrastructure, not just commercial assets.
+
+## 👀 One thing to watch
+- The Senate AI duty-of-care bill is the first federal legislation with actual model-blocking authority. If it advances through markup, it will force OpenAI, Anthropic, and Google to formalize safety evaluation processes they've so far kept voluntary — and could become the template other democracies copy.</description>
+      <guid isPermaLink="false">hermes-rss:5185ffbdabbc:20260913T015150Z:digest</guid>
+      <pubDate>Sun, 13 Sep 2026 01:51:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Trending — what changed (2026-09-12)</title>
+      <link>https://github.com/trending</link>
+      <description>- New in top 10: `nab138/iloader`, `melgarafael/DeskcommCRM`, `vastsa/PI-Desktop`, `nashsu/llm_wiki`
+- Biggest mover: `armory3d/armorpaint` climbed #10 → #6
+- Dropped from top 10: `Tencent/teamai-cli`, `AlexsJones/llmfit`, `liquidslr/system-design-notes`</description>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:20260912T070011Z:what-changed</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>vastsa/PI-Desktop</title>
+      <link>https://github.com/vastsa/PI-Desktop</link>
+      <description>Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
+
+Language: TypeScript · 552 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-12:vastsa/PI-Desktop</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>obra/superpowers</title>
+      <link>https://github.com/obra/superpowers</link>
+      <description>An agentic skills framework &amp; software development methodology that works.
+
+Language: Shell · 729 stars today</description>
+      <category>Shell</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-12:obra/superpowers</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>nashsu/llm_wiki</title>
+      <link>https://github.com/nashsu/llm_wiki</link>
+      <description>LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
+
+Language: TypeScript · 647 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-12:nashsu/llm_wiki</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>nab138/iloader</title>
+      <link>https://github.com/nab138/iloader</link>
+      <description>User friendly sideloader
+
+Language: TypeScript · 50 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-12:nab138/iloader</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>melgarafael/DeskcommCRM</title>
+      <link>https://github.com/melgarafael/DeskcommCRM</link>
+      <description>Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+
+Language: TypeScript · 152 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-12:melgarafael/DeskcommCRM</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>bilawalsidhu/gods-eye-view</title>
+      <link>https://github.com/bilawalsidhu/gods-eye-view</link>
+      <description>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+
+Language: JavaScript · 3,680 stars today</description>
+      <category>JavaScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-12:bilawalsidhu/gods-eye-view</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ayghri/i-have-adhd</title>
+      <link>https://github.com/ayghri/i-have-adhd</link>
+      <description>A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+
+Language: Python · 3,463 stars today</description>
+      <category>Python</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-12:ayghri/i-have-adhd</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>armory3d/armorpaint</title>
+      <link>https://github.com/armory3d/armorpaint</link>
+      <description>Graphics Creation Tools
+
+Language: C · 350 stars today</description>
+      <category>C</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-12:armory3d/armorpaint</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>alsk1992/CloddsBot</title>
+      <link>https://github.com/alsk1992/CloddsBot</link>
+      <description>Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
+
+Language: TypeScript · 626 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-12:alsk1992/CloddsBot</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sonarr/Sonarr</title>
+      <link>https://github.com/Sonarr/Sonarr</link>
+      <description>Smart PVR for newsgroup and bittorrent users.
+
+Language: C# · 191 stars today</description>
+      <category>C#</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-12:Sonarr/Sonarr</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>s1dashu/ip-as-logo-skill</title>
+      <link>https://github.com/s1dashu/ip-as-logo-skill</link>
+      <description>A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
+
+Language: Unknown · 5,142 stars · Topics: codex, codex-skill, image-generation, logo-design, mascot-design · Created 2026-08-18 · Updated 2026-09-12</description>
+      <category>Unknown</category>
+      <category>codex</category>
+      <category>codex-skill</category>
+      <category>image-generation</category>
+      <category>logo-design</category>
+      <category>mascot-design</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-12:s1dashu/ip-as-logo-skill</guid>
+      <pubDate>Sat, 12 Sep 2026 02:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>nateherkai/scroll-craft</title>
+      <link>https://github.com/nateherkai/scroll-craft</link>
+      <description>An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding
+
+Language: JavaScript · 2,342 stars · Topics: accessibility, agent-skills, ai-web-design, anthropic, claude-code · Created 2026-08-22 · Updated 2026-09-12</description>
+      <category>JavaScript</category>
+      <category>accessibility</category>
+      <category>agent-skills</category>
+      <category>ai-web-design</category>
+      <category>anthropic</category>
+      <category>claude-code</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-12:nateherkai/scroll-craft</guid>
+      <pubDate>Sat, 12 Sep 2026 02:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>coldteadotai/pr-lens</title>
+      <link>https://github.com/coldteadotai/pr-lens</link>
+      <description>Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull reques
+
+Language: TypeScript · 1,075 stars · Topics: agent-skills, architecture-as-code, architecture-diagrams, claude-skills, code-visualisation · Created 2026-08-20 · Updated 2026-09-12</description>
+      <category>TypeScript</category>
+      <category>agent-skills</category>
+      <category>architecture-as-code</category>
+      <category>architecture-diagrams</category>
+      <category>claude-skills</category>
+      <category>code-visualisation</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-12:coldteadotai/pr-lens</guid>
+      <pubDate>Sat, 12 Sep 2026 02:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>cbrock84/headcount</title>
+      <link>https://github.com/cbrock84/headcount</link>
+      <description>An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently instal
+
+Language: Markdown · 1,356 stars · Topics: agent-marketplace, claude-code, claude-code-plugin, claude-plugin, claude-skills · Created 2026-08-28 · Updated 2026-09-11</description>
+      <category>Markdown</category>
+      <category>agent-marketplace</category>
+      <category>claude-code</category>
+      <category>claude-code-plugin</category>
+      <category>claude-plugin</category>
+      <category>claude-skills</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-12:cbrock84/headcount</guid>
+      <pubDate>Sat, 12 Sep 2026 02:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>achimala/dream-loop</title>
+      <link>https://github.com/achimala/dream-loop</link>
+      <description>Agent skill for impressive 3D visuals using Blender + image gen + subagent critic
+
+Language: JavaScript · 853 stars · Created 2026-09-07 · Updated 2026-09-12</description>
+      <category>JavaScript</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-12:achimala/dream-loop</guid>
+      <pubDate>Sat, 12 Sep 2026 02:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zyrexnn/Cybermes</title>
+      <link>https://github.com/Zyrexnn/Cybermes</link>
+      <description>Autonomous Offensive Security, Bug Bounty &amp; Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning s
+
+Language: Python · 781 stars · Topics: ai-agent, appsec, bug-bounty, cvss-v3, cybersecurity · Created 2026-08-19 · Updated 2026-09-12</description>
+      <category>Python</category>
+      <category>ai-agent</category>
+      <category>appsec</category>
+      <category>bug-bounty</category>
+      <category>cvss-v3</category>
+      <category>cybersecurity</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-12:Zyrexnn/Cybermes</guid>
+      <pubDate>Sat, 12 Sep 2026 02:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vincentwei1021/video-talkcraft</title>
+      <link>https://github.com/Vincentwei1021/video-talkcraft</link>
+      <description>Agent skill that turns Claude Code / Codex into a motion-design studio for voiceover-driven explainer videos — word-leve
+
+Language: HTML · 917 stars · Topics: agent-skills, ai-agent, claude, claude-code, explainer-video · Created 2026-08-22 · Updated 2026-09-12</description>
+      <category>HTML</category>
+      <category>agent-skills</category>
+      <category>ai-agent</category>
+      <category>claude</category>
+      <category>claude-code</category>
+      <category>explainer-video</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-12:Vincentwei1021/video-talkcraft</guid>
+      <pubDate>Sat, 12 Sep 2026 02:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vincentwei1021/anything2explainer</title>
+      <link>https://github.com/Vincentwei1021/anything2explainer</link>
+      <description>Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-grap
+
+Language: TypeScript · 941 stars · Topics: agent-skills, ai-agents, ai-video, claude-code, claude-code-skill · Created 2026-09-08 · Updated 2026-09-12</description>
+      <category>TypeScript</category>
+      <category>agent-skills</category>
+      <category>ai-agents</category>
+      <category>ai-video</category>
+      <category>claude-code</category>
+      <category>claude-code-skill</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-12:Vincentwei1021/anything2explainer</guid>
+      <pubDate>Sat, 12 Sep 2026 02:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spielewoy/autoprompt-skill</title>
+      <link>https://github.com/Spielewoy/autoprompt-skill</link>
+      <description>Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.
+
+Language: JavaScript · 1,077 stars · Topics: agent-orchestration, agent-skills, agentic-workflows, ai-agents, ai-coding · Created 2026-08-17 · Updated 2026-09-12</description>
+      <category>JavaScript</category>
+      <category>agent-orchestration</category>
+      <category>agent-skills</category>
+      <category>agentic-workflows</category>
+      <category>ai-agents</category>
+      <category>ai-coding</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-12:Spielewoy/autoprompt-skill</guid>
+      <pubDate>Sat, 12 Sep 2026 02:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nanako0129/sepia</title>
+      <link>https://github.com/Nanako0129/sepia</link>
+      <description>De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,
+
+Language: Python · 2,555 stars · Topics: agent-skills, ai-writing, antigravity, claude-code, codex · Created 2026-08-28 · Updated 2026-09-12</description>
+      <category>Python</category>
+      <category>agent-skills</category>
+      <category>ai-writing</category>
+      <category>antigravity</category>
+      <category>claude-code</category>
+      <category>codex</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-12:Nanako0129/sepia</guid>
+      <pubDate>Sat, 12 Sep 2026 02:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡ Daily AI + Tech Digest — Saturday, 13 September 2026</title>
+      <link>https://feed.jumpingcrab.com/ai-digest</link>
+      <description># ⚡ Daily AI + Tech Digest — Saturday, 13 September 2026
+**In one line:** Fields Medalists revolt against OpenAI's math claims, Google closes a $1.5B AI coding deal, and coding-agent sandbox security gets exposed across all three major platforms.
+
+## 🤖 AI Updates
+
+1. **25 Fields Medalists Declare War on AI Math Hype**
+   Why it matters: Terence Tao, Peter Scholze, and 23 other top mathematicians published a joint declaration arguing that AI labs' race to claim breakthroughs on famous problems — without proper writeups, attribution, or verification — is undermining the entire discipline. This is the most authoritative pushback yet against OpenAI's math program.
+   Source: https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/
+
+2. **Google Closes ~$1.5B Talent Deal for AI Coding Startup Mechanize**
+   Why it matters: Cofounder Tamay Besiroglu and over a dozen Mechanize staff have joined Google DeepMind. The non-exclusive license structure mirrors Google's Windsurf and Character.AI deals — designed to grab top talent and IP while dodging antitrust review.
+   Source: https://www.businessinsider.com/google-completes-deal-for-ai-agents-startup-mechanize-2026-9
+
+3. **OpenAI Claims Progress on a Second Millennium Prize Problem**
+   Why it matters: Days after the disputed Navier-Stokes claim, OpenAI told the NYT it has made "substantial progress" on another Millennium Prize problem. The company wouldn't name it. Community speculation centers on the Hodge Conjecture. A third mathematician has now accused OpenAI of using his private ChatGPT conversations.
+   Source: https://officechai.com/ai/after-navier-stokes-openai-says-it-has-made-substantial-progress-on-another-millenium-prize-problem/
+
+4. **Coding-Agent Sandboxes Were Leaky Across Claude Code, Codex &amp; Cursor**
+   Why it matters: Stealth startup Accomplish found sandbox escape vulnerabilities in all three major coding agents. Cursor and OpenAI patched in ~a week; Anthropic took 50 days and 30 releases. Highlights a security gap in the tools developers are rapidly adopting.
+   Source: https://www.upstartsmedia.com/p/accomplish-claims-leaky-sandboxes-in-claude-codex-cursor
+
+5. **Anthropic: Yemen Cell Used Claude Code to Build Missile Guidance Software**
+   Why it matters: In its September threat report, Anthropic disclosed that a Yemen-based cell used Claude Code "in place of human software engineers" to develop guidance systems for a 2,000+ km ballistic missile. One of six disrupted weapons-development operations spanning China, Russia, and Yemen.
+   Source: https://www.aljazeera.com/news/2026/9/11/anthropic-claims-claude-ai-used-for-missile-projects-global-espionage
+
+6. **Cohere Raising $2–3B at $20B Valuation, With Government Backing**
+   Why it matters: The Canadian AI company is closing the largest private financing ever for a Canadian startup. Both the Canadian and German governments are participating alongside Nvidia — a signal that sovereign AI investment is accelerating beyond the US.
+   Source: https://www.theglobeandmail.com/business/article-canadian-ai-firm-cohere-in-advanced-talks-to-raise-up-to-3-billion/
+
+## 🛠️ Tech / Dev Updates
+
+7. **OpenAI Ships Agents API in Public Beta With Managed Codex Harness**
+   Why it matters: Developers can now offload session management, orchestration, context compaction, and sandbox execution to OpenAI. You supply tools and pick environments — the API handles the rest. US data-residency only, billed at standard API rates plus container costs.
+   Source: https://developers.openai.com/api/docs/guides/agents-api/overview
+
+8. **Nvidia &amp; Palantir Launch Sovereign AI Stack for Supply Chains**
+   Why it matters: The joint stack pairs Nvidia's Nemotron models and cuOpt with Palantir's Foundry and Ontology. Deployed first inside Nvidia's own supply chain (1.3M parts per Vera Rubin rack). Targets manufacturing, pharma, and aerospace buyers needing on-prem data sovereignty.
+   Source: https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains
+
+9. **Cursor Now Lets Companies Self-Host Cloud Coding Agent Workloads**
+   Why it matters: Enterprises can run Cursor's cloud coding agents on their own infrastructure — a key requirement for teams with strict data-residency or compliance needs. Moves Cursor closer to parity with self-hosted competitors.
+   Source: https://www.developer-tech.com/news/cursor-self-hosted-cloud-agents/
+
+10. **OpenAI Signs US Government Deal: 50% Off Tokens, GPT-6 Astra Included**
+    Why it matters: Access expands from ~1M to ~23M federal, state, local, and tribal government users. Includes discounted access to GPT-6 Astra and OpenAI's Daybreak cybersecurity platform. The prior $1 pilot claims $1.4B in cost savings.
+    Source: https://fedscoop.com/openai-gsa-reach-onegov-deal-chatgpt-2028/
+
+11. **Google's AI Agent Dev Kit Hit by CVSS 10 Remote Code Execution Bug**
+    Why it matters: Any Python/Cloud Run/GKE deployment of Google's agent framework is exposed until upgraded. Google is patching cloud-hosted instances directly, but self-hosted users need to act now.
+    Source: https://radar.offseq.com/threat/cve-2026-79696-cwe-184-incomplete-list-of-disallowed-inputs-in-google-cloud-agent-development-kit-adk-3b96714136b44311
+
+## 📈 Why today matters
+
+- **Math vs. AI is now a real fight.** The Fields Medalists' declaration and the third misconduct accusation against OpenAI's math program signal that the research community is organizing resistance — not just grumbling on X.
+- **Coding agents are the new attack surface.** Leaky sandboxes, a CVSS-10 RCE in Google's agent SDK, and Anthropic's 50-day patch window all point to the same problem: we're shipping agent infrastructure faster than we're securing it.
+- **Sovereign AI investment is going global.** Canada, Germany, Australia, and the Pentagon are all putting serious money into domestic AI infrastructure and partnerships — the US-only era of AI capital is ending.
+
+## 👀 One thing to watch
+
+- **OpenAI's mystery second Millennium Prize claim.** If the Hodge Conjecture (or whichever problem it is) lands with the same level of controversy as Navier-Stokes, the credibility battle between OpenAI and the mathematics community could define how AI-assisted research is received for years.</description>
+      <guid isPermaLink="false">hermes-rss:5185ffbdabbc:20260912T015106Z:digest</guid>
+      <pubDate>Sat, 12 Sep 2026 01:51:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Trending — what changed (2026-09-11)</title>
+      <link>https://github.com/trending</link>
+      <description>- New in top 10: `bilawalsidhu/gods-eye-view`, `alsk1992/CloddsBot`, `AlexsJones/llmfit`, `armory3d/armorpaint`
+- Dropped from top 10: `pascalorg/editor`, `earthtojake/text-to-cad`, `TauricResearch/TradingAgents`</description>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:20260911T070026Z:what-changed</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>obra/superpowers</title>
+      <link>https://github.com/obra/superpowers</link>
+      <description>An agentic skills framework &amp; software development methodology that works.
+
+Language: Shell · 732 stars today</description>
+      <category>Shell</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-11:obra/superpowers</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>liquidslr/system-design-notes</title>
+      <link>https://github.com/liquidslr/system-design-notes</link>
+      <description>Notes of the book System Desgin Interview - An Insider's Guide
+
+Language: Unknown · 900 stars today</description>
+      <category>Unknown</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-11:liquidslr/system-design-notes</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>freestylefly/awesome-gpt-image-2</title>
+      <link>https://github.com/freestylefly/awesome-gpt-image-2</link>
+      <description>Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
+
+Language: JavaScript · 962 stars today</description>
+      <category>JavaScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-11:freestylefly/awesome-gpt-image-2</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>cathrynlavery/diagram-design</title>
+      <link>https://github.com/cathrynlavery/diagram-design</link>
+      <description>38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+
+Language: HTML · 1,294 stars today</description>
+      <category>HTML</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-11:cathrynlavery/diagram-design</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>bilawalsidhu/gods-eye-view</title>
+      <link>https://github.com/bilawalsidhu/gods-eye-view</link>
+      <description>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+
+Language: JavaScript · 1,762 stars today</description>
+      <category>JavaScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-11:bilawalsidhu/gods-eye-view</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>ayghri/i-have-adhd</title>
+      <link>https://github.com/ayghri/i-have-adhd</link>
+      <description>A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+
+Language: Python · 3,882 stars today</description>
+      <category>Python</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-11:ayghri/i-have-adhd</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>armory3d/armorpaint</title>
+      <link>https://github.com/armory3d/armorpaint</link>
+      <description>Graphics Creation Tools
+
+Language: C · 72 stars today</description>
+      <category>C</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-11:armory3d/armorpaint</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>alsk1992/CloddsBot</title>
+      <link>https://github.com/alsk1992/CloddsBot</link>
+      <description>Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
+
+Language: TypeScript · 277 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-11:alsk1992/CloddsBot</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tencent/teamai-cli</title>
+      <link>https://github.com/Tencent/teamai-cli</link>
+      <description>Make Every Team AI Native
+
+Language: TypeScript · 841 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-11:Tencent/teamai-cli</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>AlexsJones/llmfit</title>
+      <link>https://github.com/AlexsJones/llmfit</link>
+      <description>Hundreds of models &amp; providers. One command to find what runs on your hardware.
+
+Language: Rust · 258 stars today</description>
+      <category>Rust</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-11:AlexsJones/llmfit</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>s1dashu/ip-as-logo-skill</title>
+      <link>https://github.com/s1dashu/ip-as-logo-skill</link>
+      <description>A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
+
+Language: Unknown · 5,121 stars · Topics: codex, codex-skill, image-generation, logo-design, mascot-design · Created 2026-08-18 · Updated 2026-09-11</description>
+      <category>Unknown</category>
+      <category>codex</category>
+      <category>codex-skill</category>
+      <category>image-generation</category>
+      <category>logo-design</category>
+      <category>mascot-design</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-11:s1dashu/ip-as-logo-skill</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>nateherkai/scroll-craft</title>
+      <link>https://github.com/nateherkai/scroll-craft</link>
+      <description>An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding
+
+Language: JavaScript · 2,307 stars · Topics: accessibility, agent-skills, ai-web-design, anthropic, claude-code · Created 2026-08-22 · Updated 2026-09-11</description>
+      <category>JavaScript</category>
+      <category>accessibility</category>
+      <category>agent-skills</category>
+      <category>ai-web-design</category>
+      <category>anthropic</category>
+      <category>claude-code</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-11:nateherkai/scroll-craft</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>coldteadotai/pr-lens</title>
+      <link>https://github.com/coldteadotai/pr-lens</link>
+      <description>Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull reques
+
+Language: TypeScript · 1,039 stars · Topics: agent-skills, architecture-as-code, architecture-diagrams, claude-skills, code-visualisation · Created 2026-08-20 · Updated 2026-09-10</description>
+      <category>TypeScript</category>
+      <category>agent-skills</category>
+      <category>architecture-as-code</category>
+      <category>architecture-diagrams</category>
+      <category>claude-skills</category>
+      <category>code-visualisation</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-11:coldteadotai/pr-lens</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>cbrock84/headcount</title>
+      <link>https://github.com/cbrock84/headcount</link>
+      <description>An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently instal
+
+Language: Markdown · 1,353 stars · Topics: agent-marketplace, claude-code, claude-code-plugin, claude-plugin, claude-skills · Created 2026-08-28 · Updated 2026-09-11</description>
+      <category>Markdown</category>
+      <category>agent-marketplace</category>
+      <category>claude-code</category>
+      <category>claude-code-plugin</category>
+      <category>claude-plugin</category>
+      <category>claude-skills</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-11:cbrock84/headcount</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zyrexnn/Cybermes</title>
+      <link>https://github.com/Zyrexnn/Cybermes</link>
+      <description>Autonomous Offensive Security, Bug Bounty &amp; Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning s
+
+Language: Python · 775 stars · Topics: ai-agent, appsec, bug-bounty, cvss-v3, cybersecurity · Created 2026-08-19 · Updated 2026-09-10</description>
+      <category>Python</category>
+      <category>ai-agent</category>
+      <category>appsec</category>
+      <category>bug-bounty</category>
+      <category>cvss-v3</category>
+      <category>cybersecurity</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-11:Zyrexnn/Cybermes</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vincentwei1021/video-talkcraft</title>
+      <link>https://github.com/Vincentwei1021/video-talkcraft</link>
+      <description>Agent skill that turns Claude Code / Codex into a motion-design studio for voiceover-driven explainer videos — word-leve
+
+Language: HTML · 891 stars · Topics: agent-skills, ai-agent, claude, claude-code, explainer-video · Created 2026-08-22 · Updated 2026-09-10</description>
+      <category>HTML</category>
+      <category>agent-skills</category>
+      <category>ai-agent</category>
+      <category>claude</category>
+      <category>claude-code</category>
+      <category>explainer-video</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-11:Vincentwei1021/video-talkcraft</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spielewoy/autoprompt-skill</title>
+      <link>https://github.com/Spielewoy/autoprompt-skill</link>
+      <description>Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.
+
+Language: JavaScript · 1,063 stars · Topics: agent-orchestration, agent-skills, agentic-workflows, ai-agents, ai-coding · Created 2026-08-17 · Updated 2026-09-11</description>
+      <category>JavaScript</category>
+      <category>agent-orchestration</category>
+      <category>agent-skills</category>
+      <category>agentic-workflows</category>
+      <category>ai-agents</category>
+      <category>ai-coding</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-11:Spielewoy/autoprompt-skill</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ryze-AI-Adgent/open-seo-mcp-skills</title>
+      <link>https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills</link>
+      <description>Open-source SEO + GEO skills for Claude on your real GSC/GA4/ads data. Free MCP: claude mcp add ryze --transport http ht
+
+Language: Shell · 752 stars · Topics: ai-seo, backlinks, claude, claude-skills, dataforseo · Created 2026-08-29 · Updated 2026-09-11</description>
+      <category>Shell</category>
+      <category>ai-seo</category>
+      <category>backlinks</category>
+      <category>claude</category>
+      <category>claude-skills</category>
+      <category>dataforseo</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-11:Ryze-AI-Adgent/open-seo-mcp-skills</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nanako0129/sepia</title>
+      <link>https://github.com/Nanako0129/sepia</link>
+      <description>De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,
+
+Language: Python · 2,529 stars · Topics: agent-skills, ai-writing, antigravity, claude-code, codex · Created 2026-08-28 · Updated 2026-09-11</description>
+      <category>Python</category>
+      <category>agent-skills</category>
+      <category>ai-writing</category>
+      <category>antigravity</category>
+      <category>claude-code</category>
+      <category>codex</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-11:Nanako0129/sepia</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Appllama/appllama-skills</title>
+      <link>https://github.com/Appllama/appllama-skills</link>
+      <description>A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens.
+
+Language: Unknown · 1,350 stars · Topics: agent-skills, ai-agents, claude, claude-code, claude-code-skill · Created 2026-08-13 · Updated 2026-09-11</description>
+      <category>Unknown</category>
+      <category>agent-skills</category>
+      <category>ai-agents</category>
+      <category>claude</category>
+      <category>claude-code</category>
+      <category>claude-code-skill</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-11:Appllama/appllama-skills</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡ Daily AI + Tech Digest — September 11, 2026</title>
+      <link>https://feed.jumpingcrab.com/ai-digest</link>
+      <description># ⚡ Daily AI + Tech Digest — September 11, 2026
+**In one line:** Anthropic blows the whistle on massive Chinese distillation attacks, OpenAI pauses Pro sign-ups as Astra demand overwhelms infrastructure, and Shopify bets big on native mobile now that AI coding agents make it viable.
+
+## 🤖 AI Updates
+
+1. **Anthropic reveals 200M-exchange distillation campaign by Alibaba, Moonshot AI, and DeepSeek**
+   Why it matters: Anthropic's new threat intelligence report alleges the largest-ever wholesale distillation effort — 151M exchanges from Alibaba alone — to extract Claude's chain-of-thought reasoning and train rival models. One Moonshot AI campaign appeared to route requests from Chinese military surveillance systems.
+   Source: https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/
+
+2. **OpenAI pauses Pro subscriptions due to unprecedented Astra demand**
+   Why it matters: Just one week after launch, GPT-6 Astra has driven so much usage that OpenAI had to halt new $200/month Pro sign-ups to protect existing users' experience. The company called demand "unprecedented" — a strong signal that agentic AI capabilities have crossed a mainstream adoption threshold.
+   Source: https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/
+
+3. **Cognition launches SWE-2 coding model, rivaling Fable 5.1 and GPT-Astra at 64% lower cost**
+   Why it matters: SWE-2 achieves 50.0% on FrontierCode 1.1 Main — within one point of Fable 5.1 — by scaling RL to a multi-trillion-parameter regime for the first time. It uses a novel Pareto-informed cost penalty that trains all reasoning-effort levels in a single RL run, pushing cost-performance efficiency significantly forward.
+   Source: https://cognition.com/blog/swe-2
+
+4. **Meta's AI agent Muse climbs to No. 2 on the US App Store**
+   Why it matters: Meta's agentic AI app hit 83,000+ iOS downloads in its first days and reached #2 on the US App Store chart. While slower than Threads' explosive launch, it signals that consumer-facing AI agents are becoming a real product category, with Meta directly competing against Instinct ($2.5B valuation) and others.
+   Source: https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/
+
+5. **Anthropic researcher quits, says AI could "kill all humans" within a decade**
+   Why it matters: Former Anthropic alignment researcher Jacob Coxon publicly left the company, stating he refuses to help build self-improving superintelligence. Anthropic's own alignment lead Evan Hubinger responded that his extinction-risk estimate exceeds 10% this decade — an extraordinary admission from inside a frontier lab.
+   Source: https://aiweekly.co/ai-news-today/edition/2026-09-09
+
+## 🛠️ Tech / Dev Updates
+
+6. **Shopify abandons React Native, moves back to Swift and Kotlin — enabled by AI coding agents**
+   Why it matters: Shopify, maintainer of major React Native libraries, announced it's migrating all mobile apps back to native codebases. The company says AI coding agents have made maintaining two separate codebases cheaper than the compromises of cross-platform development — a potentially industry-shifting signal for mobile engineering.
+   Source: https://shopify.engineering/back-to-native
+
+7. **Rust is now a tier-1 language at Microsoft**
+   Why it matters: Microsoft has officially elevated Rust to tier-1 status alongside C and C++ for internal systems development. This is a major milestone for Rust adoption in enterprise, signaling that memory-safe languages are becoming the default for critical infrastructure at the world's largest software company.
+   Source: https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/
+
+8. **PlanetScale launches Neki — sharded Postgres**
+   Why it matters: PlanetScale, known for its MySQL-based Vitess platform, is entering the Postgres world with Neki, a sharded Postgres solution. This responds to massive developer demand for horizontal Postgres scaling and represents a significant competitive move against Neon, Supabase, and other Postgres-native platforms.
+   Source: https://planetscale.com/blog/introducing-neki
+
+9. **Forgejo critical RCE vulnerability disclosed (≤16.0.3)**
+   Why it matters: The self-hosted Git forge used by Codeberg and many open-source projects has a critical remote code execution vulnerability. A patch is available in v16.0.4 — anyone running Forgejo should upgrade immediately.
+   Source: https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md
+
+10. **GitHub ships refreshed PR page and AI Scan for pull request APIs**
+    Why it matters: GitHub rolled out a redesigned pull requests page in public preview and launched AI Scan for PR APIs, adding automated code analysis directly into the pull request workflow. This tightens the integration between AI review and the standard developer review process.
+    Source: https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview
+
+11. **IDScan confirms data breach — 150M+ driver's licenses stolen**
+    Why it matters: ID verification company IDScan disclosed a massive breach affecting over 150 million driver's license records. This is one of the largest identity document breaches in history and raises urgent questions about biometric identity verification supply chains.
+    Source: https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/
+
+12. **JEP 544: Ahead-of-Time Code Compilation proposed for Java**
+    Why it matters: OpenJDK published JEP 544 for ahead-of-time code compilation, which could significantly reduce Java startup times and memory footprint — critical for serverless and AI workloads where cold start performance matters.
+    Source: https://openjdk.org/jeps/544
+
+## 📈 Why today matters
+- **The AI model wars have entered the infrastructure phase.** OpenAI can't keep up with Astra demand, Anthropic is fighting IP theft at industrial scale, and Cognition is optimizing cost-performance with novel RL techniques. The bottleneck is shifting from "who has the best model" to "who can serve it at scale."
+- **AI coding agents are rewriting the cross-platform calculus.** Shopify's decision to go native — explicitly crediting AI agents for making dual codebases viable — could trigger a broader industry migration away from React Native and similar frameworks.
+- **Security is the AI era's unfinished business.** From 150M stolen IDs to critical Git forge RCEs to former researchers publicly warning about extinction risk, the gap between AI capability and AI safety/security continues to widen.
+
+## 👀 One thing to watch
+- **Shopify's native migration could be the tipping point for React Native's decline.** If AI coding agents make maintaining separate Swift/Kotlin codebases genuinely cheaper than cross-platform abstractions, expect other large engineering orgs to follow — and a fundamental reshaping of the mobile development landscape in 2027.</description>
+      <guid isPermaLink="false">hermes-rss:5185ffbdabbc:20260911T015133Z:digest</guid>
+      <pubDate>Fri, 11 Sep 2026 01:51:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Trending — what changed (2026-09-10)</title>
+      <link>https://github.com/trending</link>
+      <description>- New in top 10: `Tencent/teamai-cli`, `pascalorg/editor`, `earthtojake/text-to-cad`, `TauricResearch/TradingAgents`
+- Biggest mover: `obra/superpowers` climbed #7 → #3
+- Dropped from top 10: `openai/skills`, `affaan-m/ECC`, `heygen-com/hyperframes`</description>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:20260910T070015Z:what-changed</guid>
+      <pubDate>Thu, 10 Sep 2026 07:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>pascalorg/editor</title>
+      <link>https://github.com/pascalorg/editor</link>
+      <description>Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
+
+Language: TypeScript · 107 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-10:pascalorg/editor</guid>
+      <pubDate>Thu, 10 Sep 2026 07:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>openai/plugins</title>
+      <link>https://github.com/openai/plugins</link>
+      <description>OpenAI Plugins
+
+Language: JavaScript · 498 stars today</description>
+      <category>JavaScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-10:openai/plugins</guid>
+      <pubDate>Thu, 10 Sep 2026 07:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>obra/superpowers</title>
+      <link>https://github.com/obra/superpowers</link>
+      <description>An agentic skills framework &amp; software development methodology that works.
+
+Language: Shell · 688 stars today</description>
+      <category>Shell</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-10:obra/superpowers</guid>
+      <pubDate>Thu, 10 Sep 2026 07:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>liquidslr/system-design-notes</title>
+      <link>https://github.com/liquidslr/system-design-notes</link>
+      <description>Notes of the book System Desgin Interview - An Insider's Guide
+
+Language: Unknown · 1,397 stars today</description>
+      <category>Unknown</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-10:liquidslr/system-design-notes</guid>
+      <pubDate>Thu, 10 Sep 2026 07:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>s1dashu/ip-as-logo-skill</title>
+      <link>https://github.com/s1dashu/ip-as-logo-skill</link>
+      <description>A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
+
+Language: Unknown · 5,102 stars · Topics: codex, codex-skill, image-generation, logo-design, mascot-design · Created 2026-08-18 · Updated 2026-09-10</description>
+      <category>Unknown</category>
+      <category>codex</category>
+      <category>codex-skill</category>
+      <category>image-generation</category>
+      <category>logo-design</category>
+      <category>mascot-design</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-10:s1dashu/ip-as-logo-skill</guid>
+      <pubDate>Thu, 10 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>nateherkai/scroll-craft</title>
+      <link>https://github.com/nateherkai/scroll-craft</link>
+      <description>An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding
+
+Language: JavaScript · 2,251 stars · Topics: accessibility, agent-skills, ai-web-design, anthropic, claude-code · Created 2026-08-22 · Updated 2026-09-10</description>
+      <category>JavaScript</category>
+      <category>accessibility</category>
+      <category>agent-skills</category>
+      <category>ai-web-design</category>
+      <category>anthropic</category>
+      <category>claude-code</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-10:nateherkai/scroll-craft</guid>
+      <pubDate>Thu, 10 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>coldteadotai/pr-lens</title>
+      <link>https://github.com/coldteadotai/pr-lens</link>
+      <description>Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull reques
+
+Language: TypeScript · 1,015 stars · Topics: agent-skills, architecture-as-code, architecture-diagrams, claude-skills, code-visualisation · Created 2026-08-20 · Updated 2026-09-10</description>
+      <category>TypeScript</category>
+      <category>agent-skills</category>
+      <category>architecture-as-code</category>
+      <category>architecture-diagrams</category>
+      <category>claude-skills</category>
+      <category>code-visualisation</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-10:coldteadotai/pr-lens</guid>
+      <pubDate>Thu, 10 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>cbrock84/headcount</title>
+      <link>https://github.com/cbrock84/headcount</link>
+      <description>An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently instal
+
+Language: Markdown · 1,337 stars · Topics: agent-marketplace, claude-code, claude-code-plugin, claude-plugin, claude-skills · Created 2026-08-28 · Updated 2026-09-10</description>
+      <category>Markdown</category>
+      <category>agent-marketplace</category>
+      <category>claude-code</category>
+      <category>claude-code-plugin</category>
+      <category>claude-plugin</category>
+      <category>claude-skills</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-10:cbrock84/headcount</guid>
+      <pubDate>Thu, 10 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>achimala/dream-loop</title>
+      <link>https://github.com/achimala/dream-loop</link>
+      <description>Agent skill for impressive 3D visuals using Blender + image gen + subagent critic
+
+Language: JavaScript · 475 stars · Created 2026-09-07 · Updated 2026-09-10</description>
+      <category>JavaScript</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-10:achimala/dream-loop</guid>
+      <pubDate>Thu, 10 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zyrexnn/Cybermes</title>
+      <link>https://github.com/Zyrexnn/Cybermes</link>
+      <description>Autonomous Offensive Security, Bug Bounty &amp; Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning s
+
+Language: Python · 772 stars · Topics: ai-agent, appsec, bug-bounty, cvss-v3, cybersecurity · Created 2026-08-19 · Updated 2026-09-10</description>
+      <category>Python</category>
+      <category>ai-agent</category>
+      <category>appsec</category>
+      <category>bug-bounty</category>
+      <category>cvss-v3</category>
+      <category>cybersecurity</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-10:Zyrexnn/Cybermes</guid>
+      <pubDate>Thu, 10 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vincentwei1021/video-talkcraft</title>
+      <link>https://github.com/Vincentwei1021/video-talkcraft</link>
+      <description>Agent skill that turns Claude Code / Codex into a motion-design studio for voiceover-driven explainer videos — word-leve
+
+Language: HTML · 874 stars · Topics: agent-skills, ai-agent, claude, claude-code, explainer-video · Created 2026-08-22 · Updated 2026-09-10</description>
+      <category>HTML</category>
+      <category>agent-skills</category>
+      <category>ai-agent</category>
+      <category>claude</category>
+      <category>claude-code</category>
+      <category>explainer-video</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-10:Vincentwei1021/video-talkcraft</guid>
+      <pubDate>Thu, 10 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spielewoy/autoprompt-skill</title>
+      <link>https://github.com/Spielewoy/autoprompt-skill</link>
+      <description>Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.
+
+Language: JavaScript · 1,041 stars · Topics: agent-orchestration, agent-skills, agentic-workflows, ai-agents, ai-coding · Created 2026-08-17 · Updated 2026-09-10</description>
+      <category>JavaScript</category>
+      <category>agent-orchestration</category>
+      <category>agent-skills</category>
+      <category>agentic-workflows</category>
+      <category>ai-agents</category>
+      <category>ai-coding</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-10:Spielewoy/autoprompt-skill</guid>
+      <pubDate>Thu, 10 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nanako0129/sepia</title>
+      <link>https://github.com/Nanako0129/sepia</link>
+      <description>De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,
+
+Language: Python · 2,503 stars · Topics: agent-skills, ai-writing, antigravity, claude-code, codex · Created 2026-08-28 · Updated 2026-09-10</description>
+      <category>Python</category>
+      <category>agent-skills</category>
+      <category>ai-writing</category>
+      <category>antigravity</category>
+      <category>claude-code</category>
+      <category>codex</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-10:Nanako0129/sepia</guid>
+      <pubDate>Thu, 10 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Appllama/appllama-skills</title>
+      <link>https://github.com/Appllama/appllama-skills</link>
+      <description>A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens.
+
+Language: Unknown · 1,247 stars · Topics: agent-skills, ai-agents, claude, claude-code, claude-code-skill · Created 2026-08-13 · Updated 2026-09-10</description>
+      <category>Unknown</category>
+      <category>agent-skills</category>
+      <category>ai-agents</category>
+      <category>claude</category>
+      <category>claude-code</category>
+      <category>claude-code-skill</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-10:Appllama/appllama-skills</guid>
+      <pubDate>Thu, 10 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡ Daily AI + Tech Digest — September 10, 2026</title>
+      <link>https://feed.jumpingcrab.com/ai-digest</link>
+      <description># ⚡ Daily AI + Tech Digest — September 10, 2026
+**In one line:** Anthropic researcher's dramatic resignation dominates the AI discourse, Apple unveils its first foldable iPhone, and AWS brings agent testing into CI/CD.
+
+---
+
+## 🤖 AI Updates
+
+1. **Anthropic researcher resigns, warns AI could "kill everyone"**
+   Jacob Coxon publicly quit Anthropic on Sep 8, calling both OpenAI and Anthropic irresponsible. A second Anthropic safety lead (Samuel Marks) publicly backed his concerns. The resignation letter called it "insane" that superintelligence work happens "on MacBooks in San Francisco instead of a bunker."
+   Why it matters: This is the highest-profile safety resignation since OpenAI's governance crisis — and it came from inside Anthropic, long considered the "safety-first" lab. The internal support from Marks suggests deeper morale fractures.
+   Source: https://fortune.com/2026/09/09/anthropic-researcher-resigns-warn-ai-companies-gambling-with-lives/
+
+2. **Nvidia agrees to buy Hugging Face for $12.9B**
+   The deal, announced Sep 3, gives Nvidia control of the largest open-source AI model hub. ~$1B is earmarked for staff retention.
+   Why it matters: Nvidia is moving up the stack from chips to software platform dominance. Owning Hugging Face means owning the distribution layer for open-weight models — a direct counterweight to OpenAI and Anthropic's closed ecosystems.
+   Source: https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html
+
+3. **OpenAI's chief scientist warns safety can't keep up with scaling**
+   Jakub Pachocki said no lab has solved alignment for scaling, and that voluntary slowdowns may be necessary while stronger safeguards are developed.
+   Why it matters: This is a rare public admission from a frontier lab leader that current safety methods won't scale with capabilities — just days after the Astra sandbagging concerns surfaced.
+   Source: https://aiweekly.co/alerts/openais-pachocki-no-lab-has-solved-alignment-for-scaling
+
+4. **Databricks unveils Adaptive Instructed-Retriever model**
+   Announced Sep 9, this retrieval model dynamically adjusts search depth — taking more steps for complex queries, stopping early for simple ones — to balance quality, latency, and cost.
+   Why it matters: Enterprise RAG systems are the most common production use of LLMs. A retrieval model that self-tunes its compute budget per query is a meaningful cost lever at scale.
+   Source: https://www.infoworld.com/article/4220216/databricks-unveils-adaptive-ai-retrieval-model-to-cut-search-costs-and-latency.html
+
+5. **Claude formalizes Fermat's Last Theorem in Lean — in 11 days**
+   Anthropic reports Claude translated an existing human proof into Lean, producing a fully computer-checked formal verification of one of mathematics' deepest results.
+   Why it matters: The bottleneck in formal math verification is the grueling translation work, not the math itself. Automating it could accelerate computer-checked proofs across mathematics and software verification.
+   Source: https://aiweekly.co/alerts/anthropics-claude-formalizes-fermats-last-theorem-in-lean
+
+6. **OpenAI Astra's reported efficiency gain raises safety trade-offs**
+   Reports indicate Astra uses "recurrent depth" (reusing internal computation), which could make intermediate reasoning harder to inspect. OpenAI disputes the stronger "neuralese" characterization.
+   Why it matters: If frontier models reuse their own activations in opaque ways, our primary safety tools — mechanistic interpretability and monitoring — become less reliable just as the models get more capable.
+   Source: https://aiweekly.co/alerts/openais-astra-uses-recurrent-depth-alarming-safety-experts
+
+---
+
+## 🛠️ Tech / Dev Updates
+
+7. **Apple unveils iPhone Duo — its first foldable iPhone**
+   Announced at the Sep 9 event alongside iPhone 18 Pro, Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5. iPhone Duo features a ~7.8" inner OLED display, A20 Pro chip, Touch ID (no Face ID due to thinness), and side-by-side multitasking.
+   Why it matters: Apple is the last major phone maker to enter foldables. At ~$2,000+, it's a premium bet — but Apple's ecosystem integration and iPad-like software could make foldables mainstream.
+   Source: https://www.youtube.com/watch?v=39BalPDuTo0
+
+8. **AWS publishes reference implementation for AI agent regression testing in GitHub Actions**
+   The Sep 9 guide shows how to deploy agents, run evaluation prompts, score traces via OpenTelemetry, and gate PRs on agent behavior using Amazon Bedrock AgentCore.
+   Why it matters: Agent testing in CI/CD is a gap most teams haven't solved. A working reference implementation from AWS lowers the barrier significantly and signals that agent QA is becoming a first-class engineering concern.
+   Source: https://aws.amazon.com/blogs/machine-learning/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions/
+
+9. **Cursor self-hosted cloud agents go GA**
+   As of Sep 2, companies can run Cursor's cloud coding agents on their own infrastructure pools — keeping code and tool execution inside their network while the model loop still runs in Cursor's cloud.
+   Why it matters: Enterprise adoption of AI coding agents has been gated by data residency and network access. Self-hosted execution removes the biggest blocker for regulated industries.
+   Source: https://cursor.com/blog/self-hosted-cloud-agents
+
+10. **Figure AI signs $3.5B compute deal for humanoid robots**
+    The Nscale deal targets up to 100,000 Nvidia GPUs to train Figure's Helix models for humanoid robotics.
+    Why it matters: This is one of the largest dedicated compute commitments for robotics ever, signaling that humanoid robot training is hitting the scale-up phase previously reserved for LLM pre-training.
+    Source: https://aiweekly.co/alerts/figure-ai-signs-35b-nscale-compute-deal-for-100000-vera-rubin-gpus-scalable-to
+
+11. **Wonderful raises $550M Series C at $5B valuation for AI agent platform**
+    The Amsterdam-based company's round was led by Insight Partners with Salesforce, Index Ventures, and others participating.
+    Why it matters: A $5B valuation for a European AI agent company shows the agent infrastructure market is attracting mega-rounds outside Silicon Valley — and that Salesforce is actively investing in agent orchestration.
+    Source: https://solutionsreview.com/ai-news-for-the-week-of-september-4-updates-from-broadcom-teradata-wonderful-more/
+
+12. **Google says Go is well-suited to AI-generated code**
+    Google published analysis arguing that Go's simplicity, strong typing, and standard library make it an ideal target language for AI code generation compared to more complex languages.
+    Why it matters: If AI-generated code becomes the primary way software is written, language design choices that make code easier for LLMs to generate correctly become a strategic advantage.
+    Source: https://www.developer-tech.com/news/google-go-ai-generated-code/
+
+---
+
+## 📈 Why today matters
+
+- **Safety insiders are breaking ranks.** Two Anthropic safety researchers have now publicly resigned in 2026, and OpenAI's own chief scientist is warning about unsolved alignment. The "responsible AI lab" narrative is cracking under commercial pressure.
+- **Apple entering foldables resets the hardware cycle.** iPhone Duo forces every Android OEM to justify their foldable premiums against Apple's ecosystem advantages — expect aggressive pricing moves in Q4.
+- **Agent infrastructure is becoming production-grade.** Between AWS's CI/CD reference architecture, Cursor's self-hosted agents, and Databricks' adaptive retrieval, the tooling gap between "AI demo" and "AI in production" is narrowing fast.
+
+## 👀 One thing to watch
+
+- Whether Anthropic's leadership responds substantively to the Coxon resignation or treats it as a one-off. The internal support from Samuel Marks suggests this isn't isolated — if more safety researchers speak up, it could force a meaningful policy shift at the company that positions itself as AI's conscience.</description>
+      <guid isPermaLink="false">hermes-rss:5185ffbdabbc:20260910T015140Z:digest</guid>
+      <pubDate>Thu, 10 Sep 2026 01:51:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>ysr666/dsh-vision-router</title>
+      <link>https://github.com/ysr666/dsh-vision-router</link>
+      <description>Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&amp;A, groundi
+
+Language: JavaScript · 1,090 stars · Topics: deepseek-harness, dsh, dsh-plugin, multimodal, vision · Created 2026-08-13 · Updated 2026-09-09</description>
+      <category>JavaScript</category>
+      <category>deepseek-harness</category>
+      <category>dsh</category>
+      <category>dsh-plugin</category>
+      <category>multimodal</category>
+      <category>vision</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-09:ysr666/dsh-vision-router</guid>
+      <pubDate>Wed, 09 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>s1dashu/ip-as-logo-skill</title>
+      <link>https://github.com/s1dashu/ip-as-logo-skill</link>
+      <description>A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
+
+Language: Unknown · 5,076 stars · Topics: codex, codex-skill, image-generation, logo-design, mascot-design · Created 2026-08-18 · Updated 2026-09-09</description>
+      <category>Unknown</category>
+      <category>codex</category>
+      <category>codex-skill</category>
+      <category>image-generation</category>
+      <category>logo-design</category>
+      <category>mascot-design</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-09:s1dashu/ip-as-logo-skill</guid>
+      <pubDate>Wed, 09 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>nateherkai/scroll-craft</title>
+      <link>https://github.com/nateherkai/scroll-craft</link>
+      <description>An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding
+
+Language: JavaScript · 2,190 stars · Topics: accessibility, agent-skills, ai-web-design, anthropic, claude-code · Created 2026-08-22 · Updated 2026-09-09</description>
+      <category>JavaScript</category>
+      <category>accessibility</category>
+      <category>agent-skills</category>
+      <category>ai-web-design</category>
+      <category>anthropic</category>
+      <category>claude-code</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-09:nateherkai/scroll-craft</guid>
+      <pubDate>Wed, 09 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>lennney/stop-that-shit</title>
+      <link>https://github.com/lennney/stop-that-shit</link>
+      <description>Stop That Shit（别再造史了）｜面向 Codex/GPT 场景的多平台 Hook + Skill Guard：拦截 AI coding agent 无需求的哈希、校验和与任务范围膨胀。 A multi-platform Hook
+
+Language: JavaScript · 1,794 stars · Topics: agent-skills, ai-agents, ai-coding, claude-code, codex · Created 2026-08-11 · Updated 2026-09-09</description>
+      <category>JavaScript</category>
+      <category>agent-skills</category>
+      <category>ai-agents</category>
+      <category>ai-coding</category>
+      <category>claude-code</category>
+      <category>codex</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-09:lennney/stop-that-shit</guid>
+      <pubDate>Wed, 09 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>cbrock84/headcount</title>
+      <link>https://github.com/cbrock84/headcount</link>
+      <description>An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently instal
+
+Language: Markdown · 1,328 stars · Topics: agent-marketplace, claude-code, claude-code-plugin, claude-plugin, claude-skills · Created 2026-08-28 · Updated 2026-09-09</description>
+      <category>Markdown</category>
+      <category>agent-marketplace</category>
+      <category>claude-code</category>
+      <category>claude-code-plugin</category>
+      <category>claude-plugin</category>
+      <category>claude-skills</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-09:cbrock84/headcount</guid>
+      <pubDate>Wed, 09 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>boyang-hu/website-rebuild-skill</title>
+      <link>https://github.com/boyang-hu/website-rebuild-skill</link>
+      <description>复刻网站的 Agent Skill：抓只读镜像、从压缩代码逐行还原、自动比对验收。An agent skill that mirrors a website, rebuilds it from the minified code, and
+
+Language: JavaScript · 986 stars · Topics: agent-skills, ai-agents, claude, claude-code, codex · Created 2026-08-11 · Updated 2026-09-09</description>
+      <category>JavaScript</category>
+      <category>agent-skills</category>
+      <category>ai-agents</category>
+      <category>claude</category>
+      <category>claude-code</category>
+      <category>codex</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-09:boyang-hu/website-rebuild-skill</guid>
+      <pubDate>Wed, 09 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

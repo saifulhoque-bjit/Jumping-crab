@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hermes Daily — GitHub Trending</title>
+    <link>https://feed.jumpingcrab.com/github-trending</link>
+    <description>Daily GitHub trending repositories, collected by the Hermes agent.</description>
+    <atom:link rel="self" type="application/rss+xml" href="https://feed.jumpingcrab.com/github-trending.xml" />
+    <language>en</language>
+    <generator>hermes-rss-feed-builder</generator>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <ttl>10</ttl>
+    <pubDate>Tue, 15 Sep 2026 07:00:42 +0000</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:10:36 +0000</lastBuildDate>
+    <item>
+      <title>GitHub Trending — what changed (2026-09-15)</title>
+      <link>https://github.com/trending</link>
+      <description>- New in top 10: `alibaba/open-code-review`, `debpalash/VoiceStudio`, `666ghj/MiroFish`, `Panniantong/Agent-Reach`
+- Biggest mover: `multimodal-art-projection/YuE` climbed #9 → #3
+- Dropped from top 10: `ever-co/ever-gauzy`, `bilawalsidhu/gods-eye-view`, `tech-leads-club/agent-skills`</description>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:20260915T070042Z:what-changed</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>rlaope/oh-my-hermes</title>
+      <link>https://github.com/rlaope/oh-my-hermes</link>
+      <description>All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
+
+Language: Python · 77 stars today</description>
+      <category>Python</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-15:rlaope/oh-my-hermes</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>multimodal-art-projection/YuE</title>
+      <link>https://github.com/multimodal-art-projection/YuE</link>
+      <description>YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
+
+Language: Python · 559 stars today</description>
+      <category>Python</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-15:multimodal-art-projection/YuE</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>localsend/localsend</title>
+      <link>https://github.com/localsend/localsend</link>
+      <description>An open-source cross-platform alternative to AirDrop
+
+Language: Dart · 251 stars today</description>
+      <category>Dart</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-15:localsend/localsend</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>debpalash/VoiceStudio</title>
+      <link>https://github.com/debpalash/VoiceStudio</link>
+      <description>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.
+
+Language: Python · 2,776 stars today</description>
+      <category>Python</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-15:debpalash/VoiceStudio</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>dani-garcia/vaultwarden</title>
+      <link>https://github.com/dani-garcia/vaultwarden</link>
+      <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+
+Language: Rust · 115 stars today</description>
+      <category>Rust</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-15:dani-garcia/vaultwarden</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>asgeirtj/system_prompts_leaks</title>
+      <link>https://github.com/asgeirtj/system_prompts_leaks</link>
+      <description>Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
+
+Language: JavaScript · 764 stars today</description>
+      <category>JavaScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-15:asgeirtj/system_prompts_leaks</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>alibaba/open-code-review</title>
+      <link>https://github.com/alibaba/open-code-review</link>
+      <description>Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.
+
+Language: Go · 1,571 stars today</description>
+      <category>Go</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-15:alibaba/open-code-review</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Panniantong/Agent-Reach</title>
+      <link>https://github.com/Panniantong/Agent-Reach</link>
+      <description>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+
+Language: Python · 651 stars today</description>
+      <category>Python</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-15:Panniantong/Agent-Reach</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>JustVugg/colibri</title>
+      <link>https://github.com/JustVugg/colibri</link>
+      <description>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+
+Language: C · 2,173 stars today</description>
+      <category>C</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-15:JustVugg/colibri</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>666ghj/MiroFish</title>
+      <link>https://github.com/666ghj/MiroFish</link>
+      <description>A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+
+Language: Python · 560 stars today</description>
+      <category>Python</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-15:666ghj/MiroFish</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Trending — what changed (2026-09-14)</title>
+      <link>https://github.com/trending</link>
+      <description>- New in top 10: `JustVugg/colibri`, `ever-co/ever-gauzy`, `tech-leads-club/agent-skills`, `calesthio/OpenMontage`
+- New #1: `JustVugg/colibri`
+- Dropped from top 10: `nab138/iloader`, `Flowseal/zapret-discord-youtube`, `jihe520/MathModelAgent`</description>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:20260914T070043Z:what-changed</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>yuliskov/SmartTube</title>
+      <link>https://github.com/yuliskov/SmartTube</link>
+      <description>Browse media content with your own rules on Android TV
+
+Language: Java · 233 stars today</description>
+      <category>Java</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-14:yuliskov/SmartTube</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>vxcontrol/pentagi</title>
+      <link>https://github.com/vxcontrol/pentagi</link>
+      <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+
+Language: Go · 590 stars today</description>
+      <category>Go</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-14:vxcontrol/pentagi</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>tech-leads-club/agent-skills</title>
+      <link>https://github.com/tech-leads-club/agent-skills</link>
+      <description>The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
+
+Language: TypeScript · 265 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-14:tech-leads-club/agent-skills</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>multimodal-art-projection/YuE</title>
+      <link>https://github.com/multimodal-art-projection/YuE</link>
+      <description>YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
+
+Language: Python · 487 stars today</description>
+      <category>Python</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-14:multimodal-art-projection/YuE</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>melgarafael/DeskcommCRM</title>
+      <link>https://github.com/melgarafael/DeskcommCRM</link>
+      <description>Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+
+Language: TypeScript · 432 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-14:melgarafael/DeskcommCRM</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>ever-co/ever-gauzy</title>
+      <link>https://github.com/ever-co/ever-gauzy</link>
+      <description>Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
+
+Language: TypeScript · 191 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-14:ever-co/ever-gauzy</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>calesthio/OpenMontage</title>
+      <link>https://github.com/calesthio/OpenMontage</link>
+      <description>World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+
+Language: Python · 380 stars today</description>
+      <category>Python</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-14:calesthio/OpenMontage</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>bilawalsidhu/gods-eye-view</title>
+      <link>https://github.com/bilawalsidhu/gods-eye-view</link>
+      <description>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+
+Language: JavaScript · 2,680 stars today</description>
+      <category>JavaScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-14:bilawalsidhu/gods-eye-view</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>asgeirtj/system_prompts_leaks</title>
+      <link>https://github.com/asgeirtj/system_prompts_leaks</link>
+      <description>Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
+
+Language: JavaScript · 706 stars today</description>
+      <category>JavaScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-14:asgeirtj/system_prompts_leaks</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>JustVugg/colibri</title>
+      <link>https://github.com/JustVugg/colibri</link>
+      <description>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+
+Language: C · 868 stars today</description>
+      <category>C</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-14:JustVugg/colibri</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Trending — what changed (2026-09-13)</title>
+      <link>https://github.com/trending</link>
+      <description>- New in top 10: `asgeirtj/system_prompts_leaks`, `Flowseal/zapret-discord-youtube`, `jihe520/MathModelAgent`, `yuliskov/SmartTube`
+- New #1: `bilawalsidhu/gods-eye-view`
+- Biggest mover: `Sonarr/Sonarr` climbed #10 → #7
+- Dropped from top 10: `ayghri/i-have-adhd`, `vastsa/PI-Desktop`, `armory3d/armorpaint`</description>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:20260913T070040Z:what-changed</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>yuliskov/SmartTube</title>
+      <link>https://github.com/yuliskov/SmartTube</link>
+      <description>Browse media content with your own rules on Android TV
+
+Language: Java · 136 stars today</description>
+      <category>Java</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-13:yuliskov/SmartTube</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>nab138/iloader</title>
+      <link>https://github.com/nab138/iloader</link>
+      <description>User friendly sideloader
+
+Language: TypeScript · 209 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-13:nab138/iloader</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>melgarafael/DeskcommCRM</title>
+      <link>https://github.com/melgarafael/DeskcommCRM</link>
+      <description>Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+
+Language: TypeScript · 504 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-13:melgarafael/DeskcommCRM</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>jihe520/MathModelAgent</title>
+      <link>https://github.com/jihe520/MathModelAgent</link>
+      <description>🤖📐专为数学建模设计的 Agent &amp; skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
+
+Language: Python · 262 stars today</description>
+      <category>Python</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-13:jihe520/MathModelAgent</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>bilawalsidhu/gods-eye-view</title>
+      <link>https://github.com/bilawalsidhu/gods-eye-view</link>
+      <description>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+
+Language: JavaScript · 2,265 stars today</description>
+      <category>JavaScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-13:bilawalsidhu/gods-eye-view</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>asgeirtj/system_prompts_leaks</title>
+      <link>https://github.com/asgeirtj/system_prompts_leaks</link>
+      <description>Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
+
+Language: JavaScript · 217 stars today</description>
+      <category>JavaScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-13:asgeirtj/system_prompts_leaks</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>alsk1992/CloddsBot</title>
+      <link>https://github.com/alsk1992/CloddsBot</link>
+      <description>Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
+
+Language: TypeScript · 376 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-13:alsk1992/CloddsBot</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sonarr/Sonarr</title>
+      <link>https://github.com/Sonarr/Sonarr</link>
+      <description>Smart PVR for newsgroup and bittorrent users.
+
+Language: C# · 227 stars today</description>
+      <category>C#</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-13:Sonarr/Sonarr</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shubhamsaboo/awesome-llm-apps</title>
+      <link>https://github.com/Shubhamsaboo/awesome-llm-apps</link>
+      <description>100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+
+Language: Python · 230 stars today</description>
+      <category>Python</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-13:Shubhamsaboo/awesome-llm-apps</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flowseal/zapret-discord-youtube</title>
+      <link>https://github.com/Flowseal/zapret-discord-youtube</link>
+      <description>Unknown
+
+Language: Batchfile · 65 stars today</description>
+      <category>Batchfile</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-13:Flowseal/zapret-discord-youtube</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Trending — what changed (2026-09-12)</title>
+      <link>https://github.com/trending</link>
+      <description>- New in top 10: `nab138/iloader`, `melgarafael/DeskcommCRM`, `vastsa/PI-Desktop`, `nashsu/llm_wiki`
+- Biggest mover: `armory3d/armorpaint` climbed #10 → #6
+- Dropped from top 10: `Tencent/teamai-cli`, `AlexsJones/llmfit`, `liquidslr/system-design-notes`</description>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:20260912T070011Z:what-changed</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>vastsa/PI-Desktop</title>
+      <link>https://github.com/vastsa/PI-Desktop</link>
+      <description>Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
+
+Language: TypeScript · 552 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-12:vastsa/PI-Desktop</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>obra/superpowers</title>
+      <link>https://github.com/obra/superpowers</link>
+      <description>An agentic skills framework &amp; software development methodology that works.
+
+Language: Shell · 729 stars today</description>
+      <category>Shell</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-12:obra/superpowers</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>nashsu/llm_wiki</title>
+      <link>https://github.com/nashsu/llm_wiki</link>
+      <description>LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
+
+Language: TypeScript · 647 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-12:nashsu/llm_wiki</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>nab138/iloader</title>
+      <link>https://github.com/nab138/iloader</link>
+      <description>User friendly sideloader
+
+Language: TypeScript · 50 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-12:nab138/iloader</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>melgarafael/DeskcommCRM</title>
+      <link>https://github.com/melgarafael/DeskcommCRM</link>
+      <description>Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+
+Language: TypeScript · 152 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-12:melgarafael/DeskcommCRM</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>bilawalsidhu/gods-eye-view</title>
+      <link>https://github.com/bilawalsidhu/gods-eye-view</link>
+      <description>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+
+Language: JavaScript · 3,680 stars today</description>
+      <category>JavaScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-12:bilawalsidhu/gods-eye-view</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ayghri/i-have-adhd</title>
+      <link>https://github.com/ayghri/i-have-adhd</link>
+      <description>A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+
+Language: Python · 3,463 stars today</description>
+      <category>Python</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-12:ayghri/i-have-adhd</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>armory3d/armorpaint</title>
+      <link>https://github.com/armory3d/armorpaint</link>
+      <description>Graphics Creation Tools
+
+Language: C · 350 stars today</description>
+      <category>C</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-12:armory3d/armorpaint</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>alsk1992/CloddsBot</title>
+      <link>https://github.com/alsk1992/CloddsBot</link>
+      <description>Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
+
+Language: TypeScript · 626 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-12:alsk1992/CloddsBot</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sonarr/Sonarr</title>
+      <link>https://github.com/Sonarr/Sonarr</link>
+      <description>Smart PVR for newsgroup and bittorrent users.
+
+Language: C# · 191 stars today</description>
+      <category>C#</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-12:Sonarr/Sonarr</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Trending — what changed (2026-09-11)</title>
+      <link>https://github.com/trending</link>
+      <description>- New in top 10: `bilawalsidhu/gods-eye-view`, `alsk1992/CloddsBot`, `AlexsJones/llmfit`, `armory3d/armorpaint`
+- Dropped from top 10: `pascalorg/editor`, `earthtojake/text-to-cad`, `TauricResearch/TradingAgents`</description>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:20260911T070026Z:what-changed</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>obra/superpowers</title>
+      <link>https://github.com/obra/superpowers</link>
+      <description>An agentic skills framework &amp; software development methodology that works.
+
+Language: Shell · 732 stars today</description>
+      <category>Shell</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-11:obra/superpowers</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>liquidslr/system-design-notes</title>
+      <link>https://github.com/liquidslr/system-design-notes</link>
+      <description>Notes of the book System Desgin Interview - An Insider's Guide
+
+Language: Unknown · 900 stars today</description>
+      <category>Unknown</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-11:liquidslr/system-design-notes</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>freestylefly/awesome-gpt-image-2</title>
+      <link>https://github.com/freestylefly/awesome-gpt-image-2</link>
+      <description>Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
+
+Language: JavaScript · 962 stars today</description>
+      <category>JavaScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-11:freestylefly/awesome-gpt-image-2</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>cathrynlavery/diagram-design</title>
+      <link>https://github.com/cathrynlavery/diagram-design</link>
+      <description>38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+
+Language: HTML · 1,294 stars today</description>
+      <category>HTML</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-11:cathrynlavery/diagram-design</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>bilawalsidhu/gods-eye-view</title>
+      <link>https://github.com/bilawalsidhu/gods-eye-view</link>
+      <description>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+
+Language: JavaScript · 1,762 stars today</description>
+      <category>JavaScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-11:bilawalsidhu/gods-eye-view</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>ayghri/i-have-adhd</title>
+      <link>https://github.com/ayghri/i-have-adhd</link>
+      <description>A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+
+Language: Python · 3,882 stars today</description>
+      <category>Python</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-11:ayghri/i-have-adhd</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>armory3d/armorpaint</title>
+      <link>https://github.com/armory3d/armorpaint</link>
+      <description>Graphics Creation Tools
+
+Language: C · 72 stars today</description>
+      <category>C</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-11:armory3d/armorpaint</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>alsk1992/CloddsBot</title>
+      <link>https://github.com/alsk1992/CloddsBot</link>
+      <description>Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
+
+Language: TypeScript · 277 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-11:alsk1992/CloddsBot</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tencent/teamai-cli</title>
+      <link>https://github.com/Tencent/teamai-cli</link>
+      <description>Make Every Team AI Native
+
+Language: TypeScript · 841 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-11:Tencent/teamai-cli</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>AlexsJones/llmfit</title>
+      <link>https://github.com/AlexsJones/llmfit</link>
+      <description>Hundreds of models &amp; providers. One command to find what runs on your hardware.
+
+Language: Rust · 258 stars today</description>
+      <category>Rust</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-11:AlexsJones/llmfit</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Trending — what changed (2026-09-10)</title>
+      <link>https://github.com/trending</link>
+      <description>- New in top 10: `Tencent/teamai-cli`, `pascalorg/editor`, `earthtojake/text-to-cad`, `TauricResearch/TradingAgents`
+- Biggest mover: `obra/superpowers` climbed #7 → #3
+- Dropped from top 10: `openai/skills`, `affaan-m/ECC`, `heygen-com/hyperframes`</description>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:20260910T070015Z:what-changed</guid>
+      <pubDate>Thu, 10 Sep 2026 07:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>pascalorg/editor</title>
+      <link>https://github.com/pascalorg/editor</link>
+      <description>Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
+
+Language: TypeScript · 107 stars today</description>
+      <category>TypeScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-10:pascalorg/editor</guid>
+      <pubDate>Thu, 10 Sep 2026 07:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>openai/plugins</title>
+      <link>https://github.com/openai/plugins</link>
+      <description>OpenAI Plugins
+
+Language: JavaScript · 498 stars today</description>
+      <category>JavaScript</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-10:openai/plugins</guid>
+      <pubDate>Thu, 10 Sep 2026 07:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>obra/superpowers</title>
+      <link>https://github.com/obra/superpowers</link>
+      <description>An agentic skills framework &amp; software development methodology that works.
+
+Language: Shell · 688 stars today</description>
+      <category>Shell</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-10:obra/superpowers</guid>
+      <pubDate>Thu, 10 Sep 2026 07:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>liquidslr/system-design-notes</title>
+      <link>https://github.com/liquidslr/system-design-notes</link>
+      <description>Notes of the book System Desgin Interview - An Insider's Guide
+
+Language: Unknown · 1,397 stars today</description>
+      <category>Unknown</category>
+      <guid isPermaLink="false">hermes-rss:81ee6acebf41:2026-09-10:liquidslr/system-design-notes</guid>
+      <pubDate>Thu, 10 Sep 2026 07:00:11 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex, nofollow"><meta name="color-scheme" content="light dark"><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22%23c96a33%22%20stroke-width%3D%221.8%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%3Cpath%20d%3D%22M9.8%209.1V6.6%22%2F%3E%3Cpath%20d%3D%22M14.2%209.1V6.6%22%2F%3E%3Ccircle%20cx%3D%229.8%22%20cy%3D%225.5%22%20r%3D%221.05%22%2F%3E%3Ccircle%20cx%3D%2214.2%22%20cy%3D%225.5%22%20r%3D%221.05%22%2F%3E%3Cpath%20d%3D%22M5.5%2014.2a6.5%205.6%200%200%201%2013%200Z%22%2F%3E%3Cpath%20d%3D%22M6%2012.6%203.5%2010.4%22%2F%3E%3Cpath%20d%3D%22M3.5%2010.4%201.9%2011.3%22%2F%3E%3Cpath%20d%3D%22M3.5%2010.4%202.9%208.5%22%2F%3E%3Cpath%20d%3D%22M18%2012.6%2020.5%2010.4%22%2F%3E%3Cpath%20d%3D%22M20.5%2010.4%2022.1%2011.3%22%2F%3E%3Cpath%20d%3D%22M20.5%2010.4%2021.1%208.5%22%2F%3E%3Cpath%20d%3D%22M7.6%2014.2%206.1%2017.2%22%2F%3E%3Cpath%20d%3D%22M10.1%2014.2%209.5%2017.6%22%2F%3E%3Cpath%20d%3D%22M13.9%2014.2l.6%203.4%22%2F%3E%3Cpath%20d%3D%22M16.4%2014.2l1.5%203%22%2F%3E%3C%2Fsvg%3E"><link rel="alternate" type="application/rss+xml" title="Hermes Daily — GitHub Trending" href="/github-trending.xml"><title>Hermes Daily — GitHub Trending</title><script>(function(){try{var s=localStorage.getItem('hermes-theme');var t=(s==='light'||s==='dark')?s:(window.matchMedia&&window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script><style>*,*::before,*::after{box-sizing:border-box}
+:root{
+--bg:#f6f5f2;--surface:#fff;--surface-2:#faf9f6;--border:#e6e2da;--border-2:#d8d2c7;
+--text:#191714;--muted:#6d6860;--faint:#948d83;
+--accent:#a8481b;--accent-2:#c96a33;--accent-bg:#fbeee5;
+--shadow:0 1px 2px rgba(25,23,20,.05),0 10px 26px -14px rgba(25,23,20,.22);
+--shadow-lift:0 2px 4px rgba(25,23,20,.06),0 16px 34px -16px rgba(25,23,20,.3);
+--nav-bg:rgba(246,245,242,.82)}
+/* Dark is declared twice on purpose. The media block covers a reader who has
+made no choice; the attribute block covers one who picked dark explicitly. The
+:not() guard is what lets an explicit light choice win on a dark-set system. */
+@media(prefers-color-scheme:dark){:root:not([data-theme="light"]){
+--bg:#121110;--surface:#1a1917;--surface-2:#201e1b;--border:#2c2925;--border-2:#3b372f;
+--text:#efebe4;--muted:#a09990;--faint:#7c756c;
+--accent:#e8a171;--accent-2:#f2bd97;--accent-bg:#2a1f18;
+--shadow:0 1px 2px rgba(0,0,0,.45),0 10px 30px -16px rgba(0,0,0,.8);
+--shadow-lift:0 2px 6px rgba(0,0,0,.5),0 18px 40px -18px rgba(0,0,0,.9);
+--nav-bg:rgba(18,17,16,.82)}}
+:root[data-theme="dark"]{
+--bg:#121110;--surface:#1a1917;--surface-2:#201e1b;--border:#2c2925;--border-2:#3b372f;
+--text:#efebe4;--muted:#a09990;--faint:#7c756c;
+--accent:#e8a171;--accent-2:#f2bd97;--accent-bg:#2a1f18;
+--shadow:0 1px 2px rgba(0,0,0,.45),0 10px 30px -16px rgba(0,0,0,.8);
+--shadow-lift:0 2px 6px rgba(0,0,0,.5),0 18px 40px -18px rgba(0,0,0,.9);
+--nav-bg:rgba(18,17,16,.82)}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);
+font:16px/1.65 ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;
+-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:2px}
+a:hover{color:var(--accent-2)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:4px}
+code{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;
+font-size:.875em;background:var(--surface-2);border:1px solid var(--border);
+border-radius:5px;padding:.05em .35em;overflow-wrap:anywhere}
+
+nav.top{position:sticky;top:0;z-index:20;background:var(--nav-bg);
+backdrop-filter:saturate(180%) blur(12px);-webkit-backdrop-filter:saturate(180%) blur(12px);
+border-bottom:1px solid var(--border)}
+nav.top .inner{max-width:58rem;margin:0 auto;padding:.6rem 1.25rem;
+display:flex;gap:.5rem;align-items:center}
+/* Only the brand and tabs scroll. The toggle sits outside this box, because a
+   control inside a horizontally scrolling flex row gets pushed past the right
+   edge on a narrow screen and has to be scrolled to. */
+nav.top .navscroll{flex:1 1 auto;min-width:0;display:flex;gap:.35rem;
+align-items:center;overflow-x:auto;scrollbar-width:none}
+nav.top .navscroll::-webkit-scrollbar{display:none}
+nav.top .brand{font-weight:650;letter-spacing:-.015em;margin-right:.6rem;
+white-space:nowrap;color:var(--text);text-decoration:none;
+display:inline-flex;align-items:center;gap:.45rem}
+nav.top .brand .crab{color:var(--accent);flex:none;
+transition:transform .18s cubic-bezier(.34,1.56,.64,1)}
+/* It is a jumping crab. It should jump. */
+nav.top .brand:hover .crab{transform:translateY(-3px) rotate(-6deg)}
+.rss-link{flex:none;display:inline-flex;align-items:center;gap:.35rem;
+font-size:.8125rem;text-decoration:none;padding:.3rem .6rem;border-radius:999px;
+color:var(--muted);background:var(--surface);border:1px solid var(--border);
+transition:color .16s ease,border-color .16s ease}
+.rss-link:hover{color:var(--accent);border-color:var(--accent)}
+.theme-toggle{flex:none;display:inline-grid;place-items:center;
+width:2rem;height:2rem;padding:0;border-radius:999px;cursor:pointer;
+color:var(--muted);background:var(--surface);border:1px solid var(--border);
+transition:color .16s ease,border-color .16s ease}
+.theme-toggle:hover{color:var(--accent);border-color:var(--accent)}
+/* No stored choice and no JS: show the moon rather than an empty button. */
+.theme-toggle .icon-sun{display:none}
+.theme-toggle .icon-moon{display:block}
+:root[data-theme="dark"] .theme-toggle .icon-sun{display:block}
+:root[data-theme="dark"] .theme-toggle .icon-moon{display:none}
+nav.top a.tab{white-space:nowrap;font-size:.875rem;color:var(--muted);text-decoration:none;
+padding:.3rem .65rem;border-radius:999px;border:1px solid transparent}
+nav.top a.tab:hover{color:var(--text);background:var(--surface)}
+nav.top a.tab[aria-current="page"]{color:var(--accent);background:var(--accent-bg);
+border-color:var(--border)}
+
+.wrap{max-width:58rem;margin:0 auto;padding:2.25rem 1.25rem 4rem}
+
+header.hero{margin-bottom:2.25rem}
+.eyebrow{display:inline-flex;align-items:center;gap:.4rem;font-size:.75rem;
+letter-spacing:.08em;text-transform:uppercase;color:var(--accent);
+background:var(--accent-bg);border:1px solid var(--border);border-radius:999px;
+padding:.25rem .7rem;margin:0 0 .9rem}
+.hero h1{font-size:clamp(1.75rem,4.5vw,2.5rem);line-height:1.12;letter-spacing:-.025em;
+margin:0 0 .55rem;font-weight:680}
+.hero .lede{color:var(--muted);font-size:1.0625rem;margin:0;max-width:42rem}
+
+.feed-section{margin:0 0 2.75rem;scroll-margin-top:4rem}
+.section-head{display:flex;gap:.85rem;align-items:flex-start;
+padding-bottom:.75rem;margin-bottom:1.1rem;border-bottom:1px solid var(--border)}
+.section-glyph{flex:none;width:2rem;height:2rem;border-radius:9px;display:grid;
+place-items:center;background:var(--accent-bg);border:1px solid var(--border);
+color:var(--accent);font-size:.95rem}
+.section-title{flex:1 1 auto;min-width:0}
+.section-title h2{font-size:1.1875rem;line-height:1.25;letter-spacing:-.015em;
+margin:.1rem 0 .15rem;font-weight:640}
+.section-meta{margin:0;font-size:.8125rem;color:var(--faint)}
+
+.cards{display:grid;gap:.7rem}
+.card{position:relative;display:flex;gap:.85rem;background:var(--surface);
+border:1px solid var(--border);border-radius:13px;padding:1rem 1.1rem;
+box-shadow:var(--shadow);transition:box-shadow .16s ease,border-color .16s ease,transform .16s ease}
+.card:hover{box-shadow:var(--shadow-lift);border-color:var(--border-2);transform:translateY(-1px)}
+.rank{flex:none;width:1.75rem;height:1.75rem;border-radius:8px;display:grid;place-items:center;
+font:600 .8125rem/1 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+color:var(--muted);background:var(--surface-2);border:1px solid var(--border)}
+.card-main{min-width:0;flex:1 1 auto}
+.card h3{font-size:1rem;line-height:1.35;margin:.15rem 0 .35rem;font-weight:620;
+letter-spacing:-.01em;overflow-wrap:anywhere}
+.card h3 a{color:var(--text);text-decoration:none}
+.card h3 a:hover{color:var(--accent)}
+.card .owner{color:var(--muted);font-weight:500}
+.card .desc{margin:0;color:var(--muted);font-size:.9375rem;overflow-wrap:anywhere}
+.story .desc{color:var(--text);opacity:.86}
+
+.chips{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.6rem}
+.chip{display:inline-flex;align-items:center;gap:.35rem;font-size:.75rem;
+color:var(--muted);background:var(--surface-2);border:1px solid var(--border);
+border-radius:999px;padding:.15rem .55rem;white-space:nowrap}
+.chip .dot{width:.55rem;height:.55rem;border-radius:50%;display:inline-block}
+.chip .star{color:var(--accent);font-style:normal;font-size:.8em}
+.chip-unit{color:var(--faint)}
+.chip.subtle{background:transparent}
+a.source{display:inline-flex;align-items:center;gap:.3rem;font-size:.75rem;
+text-decoration:none;color:var(--accent);background:var(--accent-bg);
+border:1px solid var(--border);border-radius:999px;padding:.15rem .55rem}
+a.source:hover{border-color:var(--accent)}
+a.source .arrow{font-size:.85em}
+.topics{display:flex;flex-wrap:wrap;gap:.35rem;margin-top:.5rem}
+.topic{font-size:.7rem;color:var(--muted);background:var(--surface-2);
+border:1px solid var(--border);border-radius:6px;padding:.1rem .4rem}
+.topic.more{color:var(--faint)}
+
+.panel{background:var(--surface-2);border:1px solid var(--border);border-radius:13px;
+padding:1rem 1.15rem;margin-bottom:1rem}
+.panel-title{display:flex;align-items:center;gap:.5rem;font-size:.8125rem;
+letter-spacing:.04em;text-transform:uppercase;color:var(--muted);
+margin:0 0 .6rem;font-weight:600}
+.panel-glyph{color:var(--accent)}
+ul.changed{list-style:none;margin:0;padding:0;display:grid;gap:.35rem}
+ul.changed li{position:relative;padding-left:1rem;font-size:.9375rem;color:var(--text)}
+ul.changed li::before{content:"";position:absolute;left:0;top:.62em;width:.35rem;height:.35rem;
+border-radius:50%;background:var(--accent)}
+.panel-link{display:inline-block;margin-top:.7rem;font-size:.8125rem;text-decoration:none}
+.panel-link:hover{text-decoration:underline}
+
+.digest{display:grid;gap:.7rem}
+.lede-quote{margin:0 0 .5rem;padding:.85rem 1.1rem;border-left:3px solid var(--accent);
+background:var(--surface-2);border-radius:0 10px 10px 0;font-size:1rem;color:var(--text)}
+h2.sub{font-size:.8125rem;letter-spacing:.06em;text-transform:uppercase;
+color:var(--muted);margin:1rem 0 .1rem;font-weight:600}
+h2.sub:first-child{margin-top:0}
+ul.notes{list-style:none;margin:.2rem 0 0;padding:0;display:grid;gap:.5rem}
+ul.notes li{position:relative;padding-left:1rem;font-size:.9375rem;color:var(--muted)}
+ul.notes li::before{content:"";position:absolute;left:0;top:.62em;width:.35rem;height:.35rem;
+border-radius:50%;background:var(--border-2)}
+pre.raw{white-space:pre-wrap;overflow-wrap:anywhere;margin:0;font-size:.9375rem;
+background:var(--surface);border:1px solid var(--border);border-radius:13px;padding:1rem 1.1rem}
+.empty{color:var(--faint);font-size:.9375rem;background:var(--surface-2);
+border:1px dashed var(--border-2);border-radius:11px;padding:1rem 1.1rem;margin:0}
+
+footer{margin-top:2.5rem;padding-top:1.1rem;border-top:1px solid var(--border);
+color:var(--faint);font-size:.8125rem;text-align:center}
+footer p{margin:0}
+footer a{color:var(--muted);text-decoration:none;border-bottom:1px solid var(--border-2)}
+footer a:hover{color:var(--accent);border-bottom-color:var(--accent)}
+
+@media(max-width:26rem){.rss-link span{display:none}
+.rss-link{padding:.3rem;width:2rem;height:2rem;justify-content:center}}
+@media(min-width:62rem){
+.cards{grid-template-columns:1fr 1fr}
+.digest{max-width:44rem}
+}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}}</style></head><body><nav class="top"><div class="inner"><div class="navscroll"><a class="brand" href="/"><svg class="crab" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M9.8 9.1V6.6"/><path d="M14.2 9.1V6.6"/><circle cx="9.8" cy="5.5" r="1.05"/><circle cx="14.2" cy="5.5" r="1.05"/><path d="M5.5 14.2a6.5 5.6 0 0 1 13 0Z"/><path d="M6 12.6 3.5 10.4"/><path d="M3.5 10.4 1.9 11.3"/><path d="M3.5 10.4 2.9 8.5"/><path d="M18 12.6 20.5 10.4"/><path d="M20.5 10.4 22.1 11.3"/><path d="M20.5 10.4 21.1 8.5"/><path d="M7.6 14.2 6.1 17.2"/><path d="M10.1 14.2 9.5 17.6"/><path d="M13.9 14.2l.6 3.4"/><path d="M16.4 14.2l1.5 3"/></svg><span>Hermes Daily</span></a><a class="tab" href="/">Today</a><a class="tab" href="/ai-digest">AI Digest</a><a class="tab" href="/github-trending" aria-current="page">GitHub Trending</a><a class="tab" href="/ai-skills">Trending Skills</a></div><a class="rss-link" href="/github-trending.xml" aria-label="RSS feed for this page" title="RSS feed for this page"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" aria-hidden="true" focusable="false"><circle cx="6.3" cy="17.7" r="1.7" fill="currentColor" stroke="none"/><path d="M4.6 11.3a8.4 8.4 0 0 1 8.4 8.4"/><path d="M4.6 5.3a14.4 14.4 0 0 1 14.4 14.4"/></svg><span>RSS</span></a><button class="theme-toggle" type="button" aria-label="Switch colour theme" title="Switch colour theme"><svg class="icon-sun" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.6v2.2M12 19.2v2.2M4.4 12H2.2M21.8 12h-2.2M6.3 6.3 4.7 4.7M19.3 19.3l-1.6-1.6M17.7 6.3l1.6-1.6M4.7 19.3l1.6-1.6"/></svg><svg class="icon-moon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20.5 14.6A8.6 8.6 0 1 1 9.4 3.5a6.9 6.9 0 0 0 11.1 11.1Z"/></svg></button></div></nav><div class="wrap"><header class="hero"><p class="eyebrow">&#9733; GitHub Trending</p><h1>Hermes Daily — GitHub Trending</h1><p class="lede">Daily GitHub trending repositories, collected by the Hermes agent.</p></header><section class="feed-section" id="github"><div class="section-head"><span class="section-glyph" aria-hidden="true">&#9733;</span><div class="section-title"><h2>GitHub Trending</h2><p class="section-meta">Last updated <time class="rel" datetime="2026-09-15T07:00:42+00:00">15 Sep 2026</time></p></div></div><section class="panel"><h3 class="panel-title"><span class="panel-glyph" aria-hidden="true">&#8644;</span>What changed since yesterday</h3><ul class="changed"><li>New in top 10: <code>alibaba/open-code-review</code>, <code>debpalash/VoiceStudio</code>, <code>666ghj/MiroFish</code>, <code>Panniantong/Agent-Reach</code></li><li>Biggest mover: <code>multimodal-art-projection/YuE</code> climbed #9 → #3</li><li>Dropped from top 10: <code>ever-co/ever-gauzy</code>, <code>bilawalsidhu/gods-eye-view</code>, <code>tech-leads-club/agent-skills</code></li></ul><a class="panel-link" href="https://github.com/trending">Open GitHub Trending</a></section><div class="cards"><article class="card repo"><div class="rank">1</div><div class="card-main"><h3><a href="https://github.com/rlaope/oh-my-hermes"><span class="owner">rlaope/</span><span class="name">oh-my-hermes</span></a></h3><p class="desc">All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages</p><div class="chips"><span class="chip"><i class="dot" style="background:#3572a5"></i>Python</span><span class="chip"><i class="star" aria-hidden="true">&#9733;</i>77<span class="chip-unit">stars today</span></span></div></div></article><article class="card repo"><div class="rank">2</div><div class="card-main"><h3><a href="https://github.com/multimodal-art-projection/YuE"><span class="owner">multimodal-art-projection/</span><span class="name">YuE</span></a></h3><p class="desc">YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.</p><div class="chips"><span class="chip"><i class="dot" style="background:#3572a5"></i>Python</span><span class="chip"><i class="star" aria-hidden="true">&#9733;</i>559<span class="chip-unit">stars today</span></span></div></div></article><article class="card repo"><div class="rank">3</div><div class="card-main"><h3><a href="https://github.com/localsend/localsend"><span class="owner">localsend/</span><span class="name">localsend</span></a></h3><p class="desc">An open-source cross-platform alternative to AirDrop</p><div class="chips"><span class="chip"><i class="dot" style="background:#00b4ab"></i>Dart</span><span class="chip"><i class="star" aria-hidden="true">&#9733;</i>251<span class="chip-unit">stars today</span></span></div></div></article><article class="card repo"><div class="rank">4</div><div class="card-main"><h3><a href="https://github.com/debpalash/VoiceStudio"><span class="owner">debpalash/</span><span class="name">VoiceStudio</span></a></h3><p class="desc">VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.</p><div class="chips"><span class="chip"><i class="dot" style="background:#3572a5"></i>Python</span><span class="chip"><i class="star" aria-hidden="true">&#9733;</i>2,776<span class="chip-unit">stars today</span></span></div></div></article><article class="card repo"><div class="rank">5</div><div class="card-main"><h3><a href="https://github.com/dani-garcia/vaultwarden"><span class="owner">dani-garcia/</span><span class="name">vaultwarden</span></a></h3><p class="desc">Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</p><div class="chips"><span class="chip"><i class="dot" style="background:#dea584"></i>Rust</span><span class="chip"><i class="star" aria-hidden="true">&#9733;</i>115<span class="chip-unit">stars today</span></span></div></div></article><article class="card repo"><div class="rank">6</div><div class="card-main"><h3><a href="https://github.com/asgeirtj/system_prompts_leaks"><span class="owner">asgeirtj/</span><span class="name">system_prompts_leaks</span></a></h3><p class="desc">Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.</p><div class="chips"><span class="chip"><i class="dot" style="background:#f1e05a"></i>JavaScript</span><span class="chip"><i class="star" aria-hidden="true">&#9733;</i>764<span class="chip-unit">stars today</span></span></div></div></article><article class="card repo"><div class="rank">7</div><div class="card-main"><h3><a href="https://github.com/alibaba/open-code-review"><span class="owner">alibaba/</span><span class="name">open-code-review</span></a></h3><p class="desc">Fast, efficient, battle-tested at Alibaba&#x27;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</p><div class="chips"><span class="chip"><i class="dot" style="background:#00add8"></i>Go</span><span class="chip"><i class="star" aria-hidden="true">&#9733;</i>1,571<span class="chip-unit">stars today</span></span></div></div></article><article class="card repo"><div class="rank">8</div><div class="card-main"><h3><a href="https://github.com/Panniantong/Agent-Reach"><span class="owner">Panniantong/</span><span class="name">Agent-Reach</span></a></h3><p class="desc">Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.</p><div class="chips"><span class="chip"><i class="dot" style="background:#3572a5"></i>Python</span><span class="chip"><i class="star" aria-hidden="true">&#9733;</i>651<span class="chip-unit">stars today</span></span></div></div></article><article class="card repo"><div class="rank">9</div><div class="card-main"><h3><a href="https://github.com/JustVugg/colibri"><span class="owner">JustVugg/</span><span class="name">colibri</span></a></h3><p class="desc">Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦</p><div class="chips"><span class="chip"><i class="dot" style="background:#555555"></i>C</span><span class="chip"><i class="star" aria-hidden="true">&#9733;</i>2,173<span class="chip-unit">stars today</span></span></div></div></article><article class="card repo"><div class="rank">10</div><div class="card-main"><h3><a href="https://github.com/666ghj/MiroFish"><span class="owner">666ghj/</span><span class="name">MiroFish</span></a></h3><p class="desc">A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物</p><div class="chips"><span class="chip"><i class="dot" style="background:#3572a5"></i>Python</span><span class="chip"><i class="star" aria-hidden="true">&#9733;</i>560<span class="chip-unit">stars today</span></span></div></div></article></div></section><footer><p>Built by <a href="https://www.linkedin.com/in/saiful-hoque/" rel="me noopener">Saiful Hoque</a></p></footer></div><script>(function(){var b=document.querySelector('.theme-toggle');if(!b)return;b.addEventListener('click',function(){var r=document.documentElement;var n=r.getAttribute('data-theme')==='dark'?'light':'dark';r.setAttribute('data-theme',n);b.setAttribute('aria-label','Switch to '+(n==='dark'?'light':'dark')+' theme');try{localStorage.setItem('hermes-theme',n);}catch(e){}});})();(function(){try{var n=document.querySelectorAll('time.rel');if(!n.length)return;var f=function(d){return d.getFullYear()+'-'+(d.getMonth()+1)+'-'+d.getDate();};var now=new Date();var today=f(now);var yest=f(new Date(now.getTime()-86400000));for(var i=0;i<n.length;i++){var v=n[i].getAttribute('datetime');if(!v)continue;var d=new Date(v);if(isNaN(d.getTime()))continue;var k=f(d);if(k===today){n[i].textContent='today';}else if(k===yest){n[i].textContent='yesterday';}}}catch(e){}})();</script></body></html>

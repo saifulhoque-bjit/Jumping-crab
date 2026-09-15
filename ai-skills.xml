@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hermes Daily — Trending Skills</title>
+    <link>https://feed.jumpingcrab.com/ai-skills</link>
+    <description>New and trending AI agent skill repositories, collected by the Hermes agent.</description>
+    <atom:link rel="self" type="application/rss+xml" href="https://feed.jumpingcrab.com/ai-skills.xml" />
+    <language>en</language>
+    <generator>hermes-rss-feed-builder</generator>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <ttl>10</ttl>
+    <pubDate>Tue, 15 Sep 2026 02:00:00 +0000</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 02:10:02 +0000</lastBuildDate>
+    <item>
+      <title>s1dashu/ip-as-logo-skill</title>
+      <link>https://github.com/s1dashu/ip-as-logo-skill</link>
+      <description>A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
+
+Language: Unknown · 5,238 stars · Topics: codex, codex-skill, image-generation, logo-design, mascot-design · Created 2026-08-18 · Updated 2026-09-15</description>
+      <category>Unknown</category>
+      <category>codex</category>
+      <category>codex-skill</category>
+      <category>image-generation</category>
+      <category>logo-design</category>
+      <category>mascot-design</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-15:s1dashu/ip-as-logo-skill</guid>
+      <pubDate>Tue, 15 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>nateherkai/scroll-craft</title>
+      <link>https://github.com/nateherkai/scroll-craft</link>
+      <description>An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding
+
+Language: JavaScript · 2,431 stars · Topics: accessibility, agent-skills, ai-web-design, anthropic, claude-code · Created 2026-08-22 · Updated 2026-09-15</description>
+      <category>JavaScript</category>
+      <category>accessibility</category>
+      <category>agent-skills</category>
+      <category>ai-web-design</category>
+      <category>anthropic</category>
+      <category>claude-code</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-15:nateherkai/scroll-craft</guid>
+      <pubDate>Tue, 15 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>jtydhr88/screenwriting-skills</title>
+      <link>https://github.com/jtydhr88/screenwriting-skills</link>
+      <description>Professional agent skills for screenwriting, television writing and dramaturgy
+
+Language: Python · 1,084 stars · Topics: ai, skills · Created 2026-09-06 · Updated 2026-09-15</description>
+      <category>Python</category>
+      <category>ai</category>
+      <category>skills</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-15:jtydhr88/screenwriting-skills</guid>
+      <pubDate>Tue, 15 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>coldteadotai/pr-lens</title>
+      <link>https://github.com/coldteadotai/pr-lens</link>
+      <description>Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull reques
+
+Language: TypeScript · 1,137 stars · Topics: agent-skills, architecture-as-code, architecture-diagrams, claude-skills, code-visualisation · Created 2026-08-20 · Updated 2026-09-14</description>
+      <category>TypeScript</category>
+      <category>agent-skills</category>
+      <category>architecture-as-code</category>
+      <category>architecture-diagrams</category>
+      <category>claude-skills</category>
+      <category>code-visualisation</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-15:coldteadotai/pr-lens</guid>
+      <pubDate>Tue, 15 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>cbrock84/headcount</title>
+      <link>https://github.com/cbrock84/headcount</link>
+      <description>An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently instal
+
+Language: Markdown · 1,394 stars · Topics: agent-marketplace, claude-code, claude-code-plugin, claude-plugin, claude-skills · Created 2026-08-28 · Updated 2026-09-15</description>
+      <category>Markdown</category>
+      <category>agent-marketplace</category>
+      <category>claude-code</category>
+      <category>claude-code-plugin</category>
+      <category>claude-plugin</category>
+      <category>claude-skills</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-15:cbrock84/headcount</guid>
+      <pubDate>Tue, 15 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vincentwei1021/video-talkcraft</title>
+      <link>https://github.com/Vincentwei1021/video-talkcraft</link>
+      <description>Agent skill that turns Claude Code / Codex into a motion-design studio for voiceover-driven explainer videos — word-leve
+
+Language: HTML · 1,014 stars · Topics: agent-skills, ai-agent, claude, claude-code, explainer-video · Created 2026-08-22 · Updated 2026-09-15</description>
+      <category>HTML</category>
+      <category>agent-skills</category>
+      <category>ai-agent</category>
+      <category>claude</category>
+      <category>claude-code</category>
+      <category>explainer-video</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-15:Vincentwei1021/video-talkcraft</guid>
+      <pubDate>Tue, 15 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vincentwei1021/anything2explainer</title>
+      <link>https://github.com/Vincentwei1021/anything2explainer</link>
+      <description>Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-grap
+
+Language: TypeScript · 1,327 stars · Topics: agent-skills, ai-agents, ai-video, claude-code, claude-code-skill · Created 2026-09-08 · Updated 2026-09-15</description>
+      <category>TypeScript</category>
+      <category>agent-skills</category>
+      <category>ai-agents</category>
+      <category>ai-video</category>
+      <category>claude-code</category>
+      <category>claude-code-skill</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-15:Vincentwei1021/anything2explainer</guid>
+      <pubDate>Tue, 15 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spielewoy/autoprompt-skill</title>
+      <link>https://github.com/Spielewoy/autoprompt-skill</link>
+      <description>Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.
+
+Language: JavaScript · 1,131 stars · Topics: agent-orchestration, agent-skills, agentic-workflows, ai-agents, ai-coding · Created 2026-08-17 · Updated 2026-09-15</description>
+      <category>JavaScript</category>
+      <category>agent-orchestration</category>
+      <category>agent-skills</category>
+      <category>agentic-workflows</category>
+      <category>ai-agents</category>
+      <category>ai-coding</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-15:Spielewoy/autoprompt-skill</guid>
+      <pubDate>Tue, 15 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nanako0129/sepia</title>
+      <link>https://github.com/Nanako0129/sepia</link>
+      <description>De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,
+
+Language: Python · 2,608 stars · Topics: agent-skills, ai-writing, antigravity, claude-code, codex · Created 2026-08-28 · Updated 2026-09-15</description>
+      <category>Python</category>
+      <category>agent-skills</category>
+      <category>ai-writing</category>
+      <category>antigravity</category>
+      <category>claude-code</category>
+      <category>codex</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-15:Nanako0129/sepia</guid>
+      <pubDate>Tue, 15 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CopilotKit/OpenBot</title>
+      <link>https://github.com/CopilotKit/OpenBot</link>
+      <description>Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided be
+
+Language: TypeScript · 4,893 stars · Topics: ag-ui, agent-governance, ai-agents, browser-automation, copilotkit · Created 2026-08-17 · Updated 2026-09-15</description>
+      <category>TypeScript</category>
+      <category>ag-ui</category>
+      <category>agent-governance</category>
+      <category>ai-agents</category>
+      <category>browser-automation</category>
+      <category>copilotkit</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-15:CopilotKit/OpenBot</guid>
+      <pubDate>Tue, 15 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>s1dashu/ip-as-logo-skill</title>
+      <link>https://github.com/s1dashu/ip-as-logo-skill</link>
+      <description>A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
+
+Language: Unknown · 5,213 stars · Topics: codex, codex-skill, image-generation, logo-design, mascot-design · Created 2026-08-18 · Updated 2026-09-14</description>
+      <category>Unknown</category>
+      <category>codex</category>
+      <category>codex-skill</category>
+      <category>image-generation</category>
+      <category>logo-design</category>
+      <category>mascot-design</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-14:s1dashu/ip-as-logo-skill</guid>
+      <pubDate>Mon, 14 Sep 2026 02:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>nateherkai/scroll-craft</title>
+      <link>https://github.com/nateherkai/scroll-craft</link>
+      <description>An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding
+
+Language: JavaScript · 2,402 stars · Topics: accessibility, agent-skills, ai-web-design, anthropic, claude-code · Created 2026-08-22 · Updated 2026-09-14</description>
+      <category>JavaScript</category>
+      <category>accessibility</category>
+      <category>agent-skills</category>
+      <category>ai-web-design</category>
+      <category>anthropic</category>
+      <category>claude-code</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-14:nateherkai/scroll-craft</guid>
+      <pubDate>Mon, 14 Sep 2026 02:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>jtydhr88/screenwriting-skills</title>
+      <link>https://github.com/jtydhr88/screenwriting-skills</link>
+      <description>Professional agent skills for screenwriting, television writing and dramaturgy
+
+Language: Python · 1,018 stars · Topics: ai, skills · Created 2026-09-06 · Updated 2026-09-14</description>
+      <category>Python</category>
+      <category>ai</category>
+      <category>skills</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-14:jtydhr88/screenwriting-skills</guid>
+      <pubDate>Mon, 14 Sep 2026 02:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>coldteadotai/pr-lens</title>
+      <link>https://github.com/coldteadotai/pr-lens</link>
+      <description>Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull reques
+
+Language: TypeScript · 1,127 stars · Topics: agent-skills, architecture-as-code, architecture-diagrams, claude-skills, code-visualisation · Created 2026-08-20 · Updated 2026-09-14</description>
+      <category>TypeScript</category>
+      <category>agent-skills</category>
+      <category>architecture-as-code</category>
+      <category>architecture-diagrams</category>
+      <category>claude-skills</category>
+      <category>code-visualisation</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-14:coldteadotai/pr-lens</guid>
+      <pubDate>Mon, 14 Sep 2026 02:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>cbrock84/headcount</title>
+      <link>https://github.com/cbrock84/headcount</link>
+      <description>An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently instal
+
+Language: Markdown · 1,373 stars · Topics: agent-marketplace, claude-code, claude-code-plugin, claude-plugin, claude-skills · Created 2026-08-28 · Updated 2026-09-14</description>
+      <category>Markdown</category>
+      <category>agent-marketplace</category>
+      <category>claude-code</category>
+      <category>claude-code-plugin</category>
+      <category>claude-plugin</category>
+      <category>claude-skills</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-14:cbrock84/headcount</guid>
+      <pubDate>Mon, 14 Sep 2026 02:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vincentwei1021/video-talkcraft</title>
+      <link>https://github.com/Vincentwei1021/video-talkcraft</link>
+      <description>Agent skill that turns Claude Code / Codex into a motion-design studio for voiceover-driven explainer videos — word-leve
+
+Language: HTML · 976 stars · Topics: agent-skills, ai-agent, claude, claude-code, explainer-video · Created 2026-08-22 · Updated 2026-09-14</description>
+      <category>HTML</category>
+      <category>agent-skills</category>
+      <category>ai-agent</category>
+      <category>claude</category>
+      <category>claude-code</category>
+      <category>explainer-video</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-14:Vincentwei1021/video-talkcraft</guid>
+      <pubDate>Mon, 14 Sep 2026 02:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vincentwei1021/anything2explainer</title>
+      <link>https://github.com/Vincentwei1021/anything2explainer</link>
+      <description>Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-grap
+
+Language: TypeScript · 1,174 stars · Topics: agent-skills, ai-agents, ai-video, claude-code, claude-code-skill · Created 2026-09-08 · Updated 2026-09-14</description>
+      <category>TypeScript</category>
+      <category>agent-skills</category>
+      <category>ai-agents</category>
+      <category>ai-video</category>
+      <category>claude-code</category>
+      <category>claude-code-skill</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-14:Vincentwei1021/anything2explainer</guid>
+      <pubDate>Mon, 14 Sep 2026 02:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spielewoy/autoprompt-skill</title>
+      <link>https://github.com/Spielewoy/autoprompt-skill</link>
+      <description>Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.
+
+Language: JavaScript · 1,093 stars · Topics: agent-orchestration, agent-skills, agentic-workflows, ai-agents, ai-coding · Created 2026-08-17 · Updated 2026-09-13</description>
+      <category>JavaScript</category>
+      <category>agent-orchestration</category>
+      <category>agent-skills</category>
+      <category>agentic-workflows</category>
+      <category>ai-agents</category>
+      <category>ai-coding</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-14:Spielewoy/autoprompt-skill</guid>
+      <pubDate>Mon, 14 Sep 2026 02:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nanako0129/sepia</title>
+      <link>https://github.com/Nanako0129/sepia</link>
+      <description>De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,
+
+Language: Python · 2,585 stars · Topics: agent-skills, ai-writing, antigravity, claude-code, codex · Created 2026-08-28 · Updated 2026-09-14</description>
+      <category>Python</category>
+      <category>agent-skills</category>
+      <category>ai-writing</category>
+      <category>antigravity</category>
+      <category>claude-code</category>
+      <category>codex</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-14:Nanako0129/sepia</guid>
+      <pubDate>Mon, 14 Sep 2026 02:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>CopilotKit/OpenBot</title>
+      <link>https://github.com/CopilotKit/OpenBot</link>
+      <description>Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided be
+
+Language: TypeScript · 4,855 stars · Topics: ag-ui, agent-governance, ai-agents, browser-automation, copilotkit · Created 2026-08-17 · Updated 2026-09-14</description>
+      <category>TypeScript</category>
+      <category>ag-ui</category>
+      <category>agent-governance</category>
+      <category>ai-agents</category>
+      <category>browser-automation</category>
+      <category>copilotkit</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-14:CopilotKit/OpenBot</guid>
+      <pubDate>Mon, 14 Sep 2026 02:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>s1dashu/ip-as-logo-skill</title>
+      <link>https://github.com/s1dashu/ip-as-logo-skill</link>
+      <description>A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
+
+Language: Unknown · 5,142 stars · Topics: codex, codex-skill, image-generation, logo-design, mascot-design · Created 2026-08-18 · Updated 2026-09-12</description>
+      <category>Unknown</category>
+      <category>codex</category>
+      <category>codex-skill</category>
+      <category>image-generation</category>
+      <category>logo-design</category>
+      <category>mascot-design</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-12:s1dashu/ip-as-logo-skill</guid>
+      <pubDate>Sat, 12 Sep 2026 02:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>nateherkai/scroll-craft</title>
+      <link>https://github.com/nateherkai/scroll-craft</link>
+      <description>An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding
+
+Language: JavaScript · 2,342 stars · Topics: accessibility, agent-skills, ai-web-design, anthropic, claude-code · Created 2026-08-22 · Updated 2026-09-12</description>
+      <category>JavaScript</category>
+      <category>accessibility</category>
+      <category>agent-skills</category>
+      <category>ai-web-design</category>
+      <category>anthropic</category>
+      <category>claude-code</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-12:nateherkai/scroll-craft</guid>
+      <pubDate>Sat, 12 Sep 2026 02:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>coldteadotai/pr-lens</title>
+      <link>https://github.com/coldteadotai/pr-lens</link>
+      <description>Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull reques
+
+Language: TypeScript · 1,075 stars · Topics: agent-skills, architecture-as-code, architecture-diagrams, claude-skills, code-visualisation · Created 2026-08-20 · Updated 2026-09-12</description>
+      <category>TypeScript</category>
+      <category>agent-skills</category>
+      <category>architecture-as-code</category>
+      <category>architecture-diagrams</category>
+      <category>claude-skills</category>
+      <category>code-visualisation</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-12:coldteadotai/pr-lens</guid>
+      <pubDate>Sat, 12 Sep 2026 02:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>cbrock84/headcount</title>
+      <link>https://github.com/cbrock84/headcount</link>
+      <description>An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently instal
+
+Language: Markdown · 1,356 stars · Topics: agent-marketplace, claude-code, claude-code-plugin, claude-plugin, claude-skills · Created 2026-08-28 · Updated 2026-09-11</description>
+      <category>Markdown</category>
+      <category>agent-marketplace</category>
+      <category>claude-code</category>
+      <category>claude-code-plugin</category>
+      <category>claude-plugin</category>
+      <category>claude-skills</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-12:cbrock84/headcount</guid>
+      <pubDate>Sat, 12 Sep 2026 02:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>achimala/dream-loop</title>
+      <link>https://github.com/achimala/dream-loop</link>
+      <description>Agent skill for impressive 3D visuals using Blender + image gen + subagent critic
+
+Language: JavaScript · 853 stars · Created 2026-09-07 · Updated 2026-09-12</description>
+      <category>JavaScript</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-12:achimala/dream-loop</guid>
+      <pubDate>Sat, 12 Sep 2026 02:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zyrexnn/Cybermes</title>
+      <link>https://github.com/Zyrexnn/Cybermes</link>
+      <description>Autonomous Offensive Security, Bug Bounty &amp; Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning s
+
+Language: Python · 781 stars · Topics: ai-agent, appsec, bug-bounty, cvss-v3, cybersecurity · Created 2026-08-19 · Updated 2026-09-12</description>
+      <category>Python</category>
+      <category>ai-agent</category>
+      <category>appsec</category>
+      <category>bug-bounty</category>
+      <category>cvss-v3</category>
+      <category>cybersecurity</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-12:Zyrexnn/Cybermes</guid>
+      <pubDate>Sat, 12 Sep 2026 02:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vincentwei1021/video-talkcraft</title>
+      <link>https://github.com/Vincentwei1021/video-talkcraft</link>
+      <description>Agent skill that turns Claude Code / Codex into a motion-design studio for voiceover-driven explainer videos — word-leve
+
+Language: HTML · 917 stars · Topics: agent-skills, ai-agent, claude, claude-code, explainer-video · Created 2026-08-22 · Updated 2026-09-12</description>
+      <category>HTML</category>
+      <category>agent-skills</category>
+      <category>ai-agent</category>
+      <category>claude</category>
+      <category>claude-code</category>
+      <category>explainer-video</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-12:Vincentwei1021/video-talkcraft</guid>
+      <pubDate>Sat, 12 Sep 2026 02:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vincentwei1021/anything2explainer</title>
+      <link>https://github.com/Vincentwei1021/anything2explainer</link>
+      <description>Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-grap
+
+Language: TypeScript · 941 stars · Topics: agent-skills, ai-agents, ai-video, claude-code, claude-code-skill · Created 2026-09-08 · Updated 2026-09-12</description>
+      <category>TypeScript</category>
+      <category>agent-skills</category>
+      <category>ai-agents</category>
+      <category>ai-video</category>
+      <category>claude-code</category>
+      <category>claude-code-skill</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-12:Vincentwei1021/anything2explainer</guid>
+      <pubDate>Sat, 12 Sep 2026 02:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spielewoy/autoprompt-skill</title>
+      <link>https://github.com/Spielewoy/autoprompt-skill</link>
+      <description>Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.
+
+Language: JavaScript · 1,077 stars · Topics: agent-orchestration, agent-skills, agentic-workflows, ai-agents, ai-coding · Created 2026-08-17 · Updated 2026-09-12</description>
+      <category>JavaScript</category>
+      <category>agent-orchestration</category>
+      <category>agent-skills</category>
+      <category>agentic-workflows</category>
+      <category>ai-agents</category>
+      <category>ai-coding</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-12:Spielewoy/autoprompt-skill</guid>
+      <pubDate>Sat, 12 Sep 2026 02:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nanako0129/sepia</title>
+      <link>https://github.com/Nanako0129/sepia</link>
+      <description>De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,
+
+Language: Python · 2,555 stars · Topics: agent-skills, ai-writing, antigravity, claude-code, codex · Created 2026-08-28 · Updated 2026-09-12</description>
+      <category>Python</category>
+      <category>agent-skills</category>
+      <category>ai-writing</category>
+      <category>antigravity</category>
+      <category>claude-code</category>
+      <category>codex</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-12:Nanako0129/sepia</guid>
+      <pubDate>Sat, 12 Sep 2026 02:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>s1dashu/ip-as-logo-skill</title>
+      <link>https://github.com/s1dashu/ip-as-logo-skill</link>
+      <description>A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
+
+Language: Unknown · 5,121 stars · Topics: codex, codex-skill, image-generation, logo-design, mascot-design · Created 2026-08-18 · Updated 2026-09-11</description>
+      <category>Unknown</category>
+      <category>codex</category>
+      <category>codex-skill</category>
+      <category>image-generation</category>
+      <category>logo-design</category>
+      <category>mascot-design</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-11:s1dashu/ip-as-logo-skill</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>nateherkai/scroll-craft</title>
+      <link>https://github.com/nateherkai/scroll-craft</link>
+      <description>An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding
+
+Language: JavaScript · 2,307 stars · Topics: accessibility, agent-skills, ai-web-design, anthropic, claude-code · Created 2026-08-22 · Updated 2026-09-11</description>
+      <category>JavaScript</category>
+      <category>accessibility</category>
+      <category>agent-skills</category>
+      <category>ai-web-design</category>
+      <category>anthropic</category>
+      <category>claude-code</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-11:nateherkai/scroll-craft</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>coldteadotai/pr-lens</title>
+      <link>https://github.com/coldteadotai/pr-lens</link>
+      <description>Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull reques
+
+Language: TypeScript · 1,039 stars · Topics: agent-skills, architecture-as-code, architecture-diagrams, claude-skills, code-visualisation · Created 2026-08-20 · Updated 2026-09-10</description>
+      <category>TypeScript</category>
+      <category>agent-skills</category>
+      <category>architecture-as-code</category>
+      <category>architecture-diagrams</category>
+      <category>claude-skills</category>
+      <category>code-visualisation</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-11:coldteadotai/pr-lens</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>cbrock84/headcount</title>
+      <link>https://github.com/cbrock84/headcount</link>
+      <description>An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently instal
+
+Language: Markdown · 1,353 stars · Topics: agent-marketplace, claude-code, claude-code-plugin, claude-plugin, claude-skills · Created 2026-08-28 · Updated 2026-09-11</description>
+      <category>Markdown</category>
+      <category>agent-marketplace</category>
+      <category>claude-code</category>
+      <category>claude-code-plugin</category>
+      <category>claude-plugin</category>
+      <category>claude-skills</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-11:cbrock84/headcount</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zyrexnn/Cybermes</title>
+      <link>https://github.com/Zyrexnn/Cybermes</link>
+      <description>Autonomous Offensive Security, Bug Bounty &amp; Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning s
+
+Language: Python · 775 stars · Topics: ai-agent, appsec, bug-bounty, cvss-v3, cybersecurity · Created 2026-08-19 · Updated 2026-09-10</description>
+      <category>Python</category>
+      <category>ai-agent</category>
+      <category>appsec</category>
+      <category>bug-bounty</category>
+      <category>cvss-v3</category>
+      <category>cybersecurity</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-11:Zyrexnn/Cybermes</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vincentwei1021/video-talkcraft</title>
+      <link>https://github.com/Vincentwei1021/video-talkcraft</link>
+      <description>Agent skill that turns Claude Code / Codex into a motion-design studio for voiceover-driven explainer videos — word-leve
+
+Language: HTML · 891 stars · Topics: agent-skills, ai-agent, claude, claude-code, explainer-video · Created 2026-08-22 · Updated 2026-09-10</description>
+      <category>HTML</category>
+      <category>agent-skills</category>
+      <category>ai-agent</category>
+      <category>claude</category>
+      <category>claude-code</category>
+      <category>explainer-video</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-11:Vincentwei1021/video-talkcraft</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spielewoy/autoprompt-skill</title>
+      <link>https://github.com/Spielewoy/autoprompt-skill</link>
+      <description>Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.
+
+Language: JavaScript · 1,063 stars · Topics: agent-orchestration, agent-skills, agentic-workflows, ai-agents, ai-coding · Created 2026-08-17 · Updated 2026-09-11</description>
+      <category>JavaScript</category>
+      <category>agent-orchestration</category>
+      <category>agent-skills</category>
+      <category>agentic-workflows</category>
+      <category>ai-agents</category>
+      <category>ai-coding</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-11:Spielewoy/autoprompt-skill</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ryze-AI-Adgent/open-seo-mcp-skills</title>
+      <link>https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills</link>
+      <description>Open-source SEO + GEO skills for Claude on your real GSC/GA4/ads data. Free MCP: claude mcp add ryze --transport http ht
+
+Language: Shell · 752 stars · Topics: ai-seo, backlinks, claude, claude-skills, dataforseo · Created 2026-08-29 · Updated 2026-09-11</description>
+      <category>Shell</category>
+      <category>ai-seo</category>
+      <category>backlinks</category>
+      <category>claude</category>
+      <category>claude-skills</category>
+      <category>dataforseo</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-11:Ryze-AI-Adgent/open-seo-mcp-skills</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nanako0129/sepia</title>
+      <link>https://github.com/Nanako0129/sepia</link>
+      <description>De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,
+
+Language: Python · 2,529 stars · Topics: agent-skills, ai-writing, antigravity, claude-code, codex · Created 2026-08-28 · Updated 2026-09-11</description>
+      <category>Python</category>
+      <category>agent-skills</category>
+      <category>ai-writing</category>
+      <category>antigravity</category>
+      <category>claude-code</category>
+      <category>codex</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-11:Nanako0129/sepia</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Appllama/appllama-skills</title>
+      <link>https://github.com/Appllama/appllama-skills</link>
+      <description>A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens.
+
+Language: Unknown · 1,350 stars · Topics: agent-skills, ai-agents, claude, claude-code, claude-code-skill · Created 2026-08-13 · Updated 2026-09-11</description>
+      <category>Unknown</category>
+      <category>agent-skills</category>
+      <category>ai-agents</category>
+      <category>claude</category>
+      <category>claude-code</category>
+      <category>claude-code-skill</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-11:Appllama/appllama-skills</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>s1dashu/ip-as-logo-skill</title>
+      <link>https://github.com/s1dashu/ip-as-logo-skill</link>
+      <description>A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
+
+Language: Unknown · 5,102 stars · Topics: codex, codex-skill, image-generation, logo-design, mascot-design · Created 2026-08-18 · Updated 2026-09-10</description>
+      <category>Unknown</category>
+      <category>codex</category>
+      <category>codex-skill</category>
+      <category>image-generation</category>
+      <category>logo-design</category>
+      <category>mascot-design</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-10:s1dashu/ip-as-logo-skill</guid>
+      <pubDate>Thu, 10 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>nateherkai/scroll-craft</title>
+      <link>https://github.com/nateherkai/scroll-craft</link>
+      <description>An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding
+
+Language: JavaScript · 2,251 stars · Topics: accessibility, agent-skills, ai-web-design, anthropic, claude-code · Created 2026-08-22 · Updated 2026-09-10</description>
+      <category>JavaScript</category>
+      <category>accessibility</category>
+      <category>agent-skills</category>
+      <category>ai-web-design</category>
+      <category>anthropic</category>
+      <category>claude-code</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-10:nateherkai/scroll-craft</guid>
+      <pubDate>Thu, 10 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>coldteadotai/pr-lens</title>
+      <link>https://github.com/coldteadotai/pr-lens</link>
+      <description>Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull reques
+
+Language: TypeScript · 1,015 stars · Topics: agent-skills, architecture-as-code, architecture-diagrams, claude-skills, code-visualisation · Created 2026-08-20 · Updated 2026-09-10</description>
+      <category>TypeScript</category>
+      <category>agent-skills</category>
+      <category>architecture-as-code</category>
+      <category>architecture-diagrams</category>
+      <category>claude-skills</category>
+      <category>code-visualisation</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-10:coldteadotai/pr-lens</guid>
+      <pubDate>Thu, 10 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>cbrock84/headcount</title>
+      <link>https://github.com/cbrock84/headcount</link>
+      <description>An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently instal
+
+Language: Markdown · 1,337 stars · Topics: agent-marketplace, claude-code, claude-code-plugin, claude-plugin, claude-skills · Created 2026-08-28 · Updated 2026-09-10</description>
+      <category>Markdown</category>
+      <category>agent-marketplace</category>
+      <category>claude-code</category>
+      <category>claude-code-plugin</category>
+      <category>claude-plugin</category>
+      <category>claude-skills</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-10:cbrock84/headcount</guid>
+      <pubDate>Thu, 10 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>achimala/dream-loop</title>
+      <link>https://github.com/achimala/dream-loop</link>
+      <description>Agent skill for impressive 3D visuals using Blender + image gen + subagent critic
+
+Language: JavaScript · 475 stars · Created 2026-09-07 · Updated 2026-09-10</description>
+      <category>JavaScript</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-10:achimala/dream-loop</guid>
+      <pubDate>Thu, 10 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zyrexnn/Cybermes</title>
+      <link>https://github.com/Zyrexnn/Cybermes</link>
+      <description>Autonomous Offensive Security, Bug Bounty &amp; Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning s
+
+Language: Python · 772 stars · Topics: ai-agent, appsec, bug-bounty, cvss-v3, cybersecurity · Created 2026-08-19 · Updated 2026-09-10</description>
+      <category>Python</category>
+      <category>ai-agent</category>
+      <category>appsec</category>
+      <category>bug-bounty</category>
+      <category>cvss-v3</category>
+      <category>cybersecurity</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-10:Zyrexnn/Cybermes</guid>
+      <pubDate>Thu, 10 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vincentwei1021/video-talkcraft</title>
+      <link>https://github.com/Vincentwei1021/video-talkcraft</link>
+      <description>Agent skill that turns Claude Code / Codex into a motion-design studio for voiceover-driven explainer videos — word-leve
+
+Language: HTML · 874 stars · Topics: agent-skills, ai-agent, claude, claude-code, explainer-video · Created 2026-08-22 · Updated 2026-09-10</description>
+      <category>HTML</category>
+      <category>agent-skills</category>
+      <category>ai-agent</category>
+      <category>claude</category>
+      <category>claude-code</category>
+      <category>explainer-video</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-10:Vincentwei1021/video-talkcraft</guid>
+      <pubDate>Thu, 10 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spielewoy/autoprompt-skill</title>
+      <link>https://github.com/Spielewoy/autoprompt-skill</link>
+      <description>Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.
+
+Language: JavaScript · 1,041 stars · Topics: agent-orchestration, agent-skills, agentic-workflows, ai-agents, ai-coding · Created 2026-08-17 · Updated 2026-09-10</description>
+      <category>JavaScript</category>
+      <category>agent-orchestration</category>
+      <category>agent-skills</category>
+      <category>agentic-workflows</category>
+      <category>ai-agents</category>
+      <category>ai-coding</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-10:Spielewoy/autoprompt-skill</guid>
+      <pubDate>Thu, 10 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nanako0129/sepia</title>
+      <link>https://github.com/Nanako0129/sepia</link>
+      <description>De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,
+
+Language: Python · 2,503 stars · Topics: agent-skills, ai-writing, antigravity, claude-code, codex · Created 2026-08-28 · Updated 2026-09-10</description>
+      <category>Python</category>
+      <category>agent-skills</category>
+      <category>ai-writing</category>
+      <category>antigravity</category>
+      <category>claude-code</category>
+      <category>codex</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-10:Nanako0129/sepia</guid>
+      <pubDate>Thu, 10 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Appllama/appllama-skills</title>
+      <link>https://github.com/Appllama/appllama-skills</link>
+      <description>A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens.
+
+Language: Unknown · 1,247 stars · Topics: agent-skills, ai-agents, claude, claude-code, claude-code-skill · Created 2026-08-13 · Updated 2026-09-10</description>
+      <category>Unknown</category>
+      <category>agent-skills</category>
+      <category>ai-agents</category>
+      <category>claude</category>
+      <category>claude-code</category>
+      <category>claude-code-skill</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-10:Appllama/appllama-skills</guid>
+      <pubDate>Thu, 10 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ysr666/dsh-vision-router</title>
+      <link>https://github.com/ysr666/dsh-vision-router</link>
+      <description>Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&amp;A, groundi
+
+Language: JavaScript · 1,090 stars · Topics: deepseek-harness, dsh, dsh-plugin, multimodal, vision · Created 2026-08-13 · Updated 2026-09-09</description>
+      <category>JavaScript</category>
+      <category>deepseek-harness</category>
+      <category>dsh</category>
+      <category>dsh-plugin</category>
+      <category>multimodal</category>
+      <category>vision</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-09:ysr666/dsh-vision-router</guid>
+      <pubDate>Wed, 09 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>s1dashu/ip-as-logo-skill</title>
+      <link>https://github.com/s1dashu/ip-as-logo-skill</link>
+      <description>A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
+
+Language: Unknown · 5,076 stars · Topics: codex, codex-skill, image-generation, logo-design, mascot-design · Created 2026-08-18 · Updated 2026-09-09</description>
+      <category>Unknown</category>
+      <category>codex</category>
+      <category>codex-skill</category>
+      <category>image-generation</category>
+      <category>logo-design</category>
+      <category>mascot-design</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-09:s1dashu/ip-as-logo-skill</guid>
+      <pubDate>Wed, 09 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>nateherkai/scroll-craft</title>
+      <link>https://github.com/nateherkai/scroll-craft</link>
+      <description>An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding
+
+Language: JavaScript · 2,190 stars · Topics: accessibility, agent-skills, ai-web-design, anthropic, claude-code · Created 2026-08-22 · Updated 2026-09-09</description>
+      <category>JavaScript</category>
+      <category>accessibility</category>
+      <category>agent-skills</category>
+      <category>ai-web-design</category>
+      <category>anthropic</category>
+      <category>claude-code</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-09:nateherkai/scroll-craft</guid>
+      <pubDate>Wed, 09 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>lennney/stop-that-shit</title>
+      <link>https://github.com/lennney/stop-that-shit</link>
+      <description>Stop That Shit（别再造史了）｜面向 Codex/GPT 场景的多平台 Hook + Skill Guard：拦截 AI coding agent 无需求的哈希、校验和与任务范围膨胀。 A multi-platform Hook
+
+Language: JavaScript · 1,794 stars · Topics: agent-skills, ai-agents, ai-coding, claude-code, codex · Created 2026-08-11 · Updated 2026-09-09</description>
+      <category>JavaScript</category>
+      <category>agent-skills</category>
+      <category>ai-agents</category>
+      <category>ai-coding</category>
+      <category>claude-code</category>
+      <category>codex</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-09:lennney/stop-that-shit</guid>
+      <pubDate>Wed, 09 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>cbrock84/headcount</title>
+      <link>https://github.com/cbrock84/headcount</link>
+      <description>An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently instal
+
+Language: Markdown · 1,328 stars · Topics: agent-marketplace, claude-code, claude-code-plugin, claude-plugin, claude-skills · Created 2026-08-28 · Updated 2026-09-09</description>
+      <category>Markdown</category>
+      <category>agent-marketplace</category>
+      <category>claude-code</category>
+      <category>claude-code-plugin</category>
+      <category>claude-plugin</category>
+      <category>claude-skills</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-09:cbrock84/headcount</guid>
+      <pubDate>Wed, 09 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>boyang-hu/website-rebuild-skill</title>
+      <link>https://github.com/boyang-hu/website-rebuild-skill</link>
+      <description>复刻网站的 Agent Skill：抓只读镜像、从压缩代码逐行还原、自动比对验收。An agent skill that mirrors a website, rebuilds it from the minified code, and
+
+Language: JavaScript · 986 stars · Topics: agent-skills, ai-agents, claude, claude-code, codex · Created 2026-08-11 · Updated 2026-09-09</description>
+      <category>JavaScript</category>
+      <category>agent-skills</category>
+      <category>ai-agents</category>
+      <category>claude</category>
+      <category>claude-code</category>
+      <category>codex</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-09:boyang-hu/website-rebuild-skill</guid>
+      <pubDate>Wed, 09 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spielewoy/autoprompt-skill</title>
+      <link>https://github.com/Spielewoy/autoprompt-skill</link>
+      <description>Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.
+
+Language: JavaScript · 1,031 stars · Topics: agent-orchestration, agent-skills, agentic-workflows, ai-agents, ai-coding · Created 2026-08-17 · Updated 2026-09-08</description>
+      <category>JavaScript</category>
+      <category>agent-orchestration</category>
+      <category>agent-skills</category>
+      <category>agentic-workflows</category>
+      <category>ai-agents</category>
+      <category>ai-coding</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-09:Spielewoy/autoprompt-skill</guid>
+      <pubDate>Wed, 09 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nanako0129/sepia</title>
+      <link>https://github.com/Nanako0129/sepia</link>
+      <description>De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,
+
+Language: Python · 2,456 stars · Topics: agent-skills, ai-writing, antigravity, claude-code, codex · Created 2026-08-28 · Updated 2026-09-09</description>
+      <category>Python</category>
+      <category>agent-skills</category>
+      <category>ai-writing</category>
+      <category>antigravity</category>
+      <category>claude-code</category>
+      <category>codex</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-09:Nanako0129/sepia</guid>
+      <pubDate>Wed, 09 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>CopilotKit/OpenBot</title>
+      <link>https://github.com/CopilotKit/OpenBot</link>
+      <description>Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided be
+
+Language: TypeScript · 4,494 stars · Topics: ag-ui, agent-governance, ai-agents, browser-automation, copilotkit · Created 2026-08-17 · Updated 2026-09-09</description>
+      <category>TypeScript</category>
+      <category>ag-ui</category>
+      <category>agent-governance</category>
+      <category>ai-agents</category>
+      <category>browser-automation</category>
+      <category>copilotkit</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-09:CopilotKit/OpenBot</guid>
+      <pubDate>Wed, 09 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Appllama/appllama-skills</title>
+      <link>https://github.com/Appllama/appllama-skills</link>
+      <description>A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens.
+
+Language: Unknown · 1,142 stars · Topics: agent-skills, ai-agents, claude, claude-code, claude-code-skill · Created 2026-08-13 · Updated 2026-09-09</description>
+      <category>Unknown</category>
+      <category>agent-skills</category>
+      <category>ai-agents</category>
+      <category>claude</category>
+      <category>claude-code</category>
+      <category>claude-code-skill</category>
+      <guid isPermaLink="false">hermes-rss:1109b67b674c:2026-09-09:Appllama/appllama-skills</guid>
+      <pubDate>Wed, 09 Sep 2026 02:00:05 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
